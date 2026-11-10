@@ -1,0 +1,14 @@
+id_vendedor,codigo_vendedor,nombre_vendedor,id_zona,fecha_ingreso,fecha_retiro,estado
+1,V001,María Arrieta,1,2021-03-01,,Activo
+2,V002,Paola Martínez,1,2016-08-01,,Activo
+3,V003,Fernando Pérez,1,2018-06-01,,Activo
+4,V004,Katherine Mendoza,2,2016-05-01,,Activo
+5,V005,Ricardo Gómez,2,2020-05-01,,Activo
+6,V006,Andrea Ortega,2,2021-10-01,,Activo
+7,V007,Yuliana Díaz,3,2020-11-01,2025-06-30,Retirado
+8,V008,Oscar Vargas,3,2021-03-01,,Activo
+9,V009,Andrés Romero,4,2022-08-01,,Activo
+10,V010,Diana Barrios,4,2016-04-01,,Activo
+11,V011,Jorge Herrera,5,2017-12-01,,Activo
+12,V012,Mauricio Fuentes,5,2021-12-01,,Activo
+13,V013,Natalia Rodríguez,3,2025-07-01,,Activo

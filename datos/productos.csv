@@ -1,0 +1,251 @@
+id_producto,codigo_producto,nombre_producto,categoria,marca,precio_lista
+1,P0001,Sal refinada 1 kg Campo Verde - Paca x 6,Abarrotes,Campo Verde,115600
+2,P0002,Sardinas en lata 425 g Del Río - Caja x 24,Abarrotes,Del Río,100800
+3,P0003,Arroz blanco 500 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,92700
+4,P0004,Leche en polvo 400 g Campo Verde - Caja x 12,Abarrotes,Campo Verde,71900
+5,P0005,Leche en polvo 400 g Del Río - Caja x 12,Abarrotes,Del Río,102100
+6,P0006,Sardinas en lata 425 g Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,118900
+7,P0007,Chocolate de mesa 500 g Campo Verde - Caja x 12,ABARROTES,Campo Verde,92600
+8,P0008,Azúcar blanca 1 kg Del Río - Caja x 12,Abarrotes,Del Río,61800
+9,P0009,Arroz blanco 500 g Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,91100
+10,P0010,Aceite vegetal 1 L Campo Verde - Paca x 12,Abarrotes,Campo Verde,63500
+11,P0011,Avena en hojuelas 500 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,80100
+12,P0012,Harina de maíz 1 kg Campo Verde - Paca x 6,Abarrotes,Campo Verde,106700
+13,P0013,Aceite vegetal 3 L Doña Clara - Caja x 12,Abarrotes,Doña Clara,147900
+14,P0014,Avena en hojuelas 500 g Sabor Caribe - Paca x 12,Abarrotes,Sabor Caribe,122900
+15,P0015,Garbanzo 500 g Doña Clara - Caja x 12,Abarrotes,Doña Clara,69900
+16,P0016,Lenteja 500 g Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,65800
+17,P0017,Garbanzo 500 g Sabor Caribe - Paca x 6,ABARROTES,Sabor Caribe,108800
+18,P0018,Aceite vegetal 3 L Sabor Caribe - Caja x 12,Abarrotes,Sabor Caribe,127200
+19,P0019,Chocolate de mesa 500 g Doña Clara - Caja x 24,Abarrotes,Doña Clara,113800
+20,P0020,Pasta espagueti 500 g Campo Verde - Caja x 12,Abarrotes,Campo Verde,98400
+21,P0021,Azúcar blanca 1 kg Doña Clara - Caja x 12,Abarrotes,Doña Clara,120400
+22,P0022,Fríjol rojo 500 g Sabor Caribe - Paca x 12,Abarrotes,Sabor Caribe,88800
+23,P0023,Panela 500 g Doña Clara - Paca x 6,Abarrotes,Doña Clara,134900
+24,P0024,Atún en lata 170 g Doña Clara - Caja x 12,abarrotes ,Doña Clara,77800
+25,P0025,Panela 500 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,158700
+26,P0026,Panela 500 g Sabor Caribe - Paca x 12,Abarrotes,Sabor Caribe,81700
+27,P0027,Sal refinada 1 kg Del Río - Caja x 24,Abarrotes,Del Río,76300
+28,P0028,Café molido 250 g Del Río - Caja x 12,Abarrotes,Del Río,88800
+29,P0029,Harina de maíz 1 kg Sabor Caribe - Caja x 24,Abarrotes,Sabor Caribe,154900
+30,P0030,Arroz blanco 1 kg Sabor Caribe - Caja x 12,Abarrotes,Sabor Caribe,113800
+31,P0031,Aceite vegetal 3 L Del Río - Paca x 12,Abarrotes,Del Río,153500
+32,P0032,Salsa de tomate 400 g Campo Verde - Paca x 12,Abarrotes,Campo Verde,74300
+33,P0033,Arroz blanco 1 kg Campo Verde - Paca x 12,Abarrotes,Campo Verde,120000
+34,P0034,Chocolate de mesa 500 g Del Río - Caja x 12,Abarrotes,Del Río,0
+35,P0035,Aceite vegetal 1 L Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,111700
+36,P0036,Aceite vegetal 3 L Campo Verde - Fardo x 25,Abarrotes,Campo Verde,111400
+37,P0037,Harina de maíz 1 kg Doña Clara - Paca x 12,Abarrotes,Doña Clara,146600
+38,P0038,Arroz blanco 500 g Doña Clara - Fardo x 25,Abarrotes,Doña Clara,61000
+39,P0039,Salsa de tomate 400 g Sabor Caribe - Caja x 24,Abarrotes,Sabor Caribe,134100
+40,P0040,Café molido 250 g Doña Clara - Caja x 24,Abarrotes,Doña Clara,118500
+41,P0041,Fríjol rojo 500 g Campo Verde - Paca x 12,Abarrotes,Campo Verde,149900
+42,P0042,Avena en hojuelas 500 g Del Río - Fardo x 25,Abarrotes,Del Río,111100
+43,P0043,Salsa de tomate 400 g Del Río - Paca x 12,Abarrotes,Del Río,54400
+44,P0044,Azúcar blanca 1 kg Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,87100
+45,P0045,Pasta espagueti 500 g Doña Clara - Paca x 6,Abarrotes,Doña Clara,46300
+46,P0046,Atún en lata 170 g Del Río - Paca x 6,Abarrotes,Del Río,142600
+47,P0047,Atún en lata 170 g Sabor Caribe - Caja x 24,Abarrotes,Sabor Caribe,77200
+48,P0048,Pasta conchitas 250 g Campo Verde - Paca x 12,Abarrotes,Campo Verde,79300
+49,P0049,Garbanzo 500 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,53700
+50,P0050,Salsa de tomate 400 g Doña Clara - Fardo x 25,Abarrotes,Doña Clara,42000
+51,P0051,Sardinas en lata 425 g Doña Clara - Fardo x 25,Abarrotes,Doña Clara,105700
+52,P0052,Arroz blanco 1 kg Del Río - Caja x 12,Abarrotes,Del Río,101000
+53,P0053,Fríjol rojo 500 g Del Río - Caja x 24,Abarrotes,Del Río,145500
+54,P0054,Pasta espagueti 500 g Del Río - Fardo x 25,Abarrotes,Del Río,76900
+55,P0055,Leche en polvo 400 g Doña Clara - Caja x 24,Abarrotes,Doña Clara,52400
+56,P0056,Lenteja 500 g Doña Clara - Caja x 12,Abarrotes,Doña Clara,138000
+57,P0057,Arroz blanco 1 kg Doña Clara - Fardo x 25,Abarrotes,Doña Clara,106100
+58,P0058,Lenteja 500 g Del Río - Caja x 24,Abarrotes,Del Río,123300
+59,P0059,Fríjol rojo 500 g Doña Clara - Fardo x 25,Abarrotes,Doña Clara,146500
+60,P0060,Chocolate de mesa 500 g Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,117300
+61,P0061,Panela 500 g Del Río - Paca x 6,Abarrotes,Del Río,140800
+62,P0062,Garbanzo 500 g Del Río - Paca x 12,Abarrotes,Del Río,122000
+63,P0063,Atún en lata 170 g Campo Verde - Caja x 12,Abarrotes,Campo Verde,87900
+64,P0064,Arroz blanco 500 g Del Río - Caja x 24,Abarrotes,Del Río,81100
+65,P0065,Pasta conchitas 250 g Del Río - Caja x 24,abarrotes ,Del Río,64400
+66,P0066,Azúcar blanca 1 kg Campo Verde - Fardo x 25,Abarrotes,Campo Verde,82900
+67,P0067,Sardinas en lata 425 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,70600
+68,P0068,Pasta conchitas 250 g Sabor Caribe - Fardo x 25,Abarrotes,Sabor Caribe,76900
+69,P0069,Pasta conchitas 250 g Doña Clara - Caja x 12,Abarrotes,Doña Clara,67100
+70,P0070,Leche en polvo 400 g Sabor Caribe - Caja x 12,Abarrotes,Sabor Caribe,53600
+71,P0071,Aceite vegetal 1 L Del Río - Caja x 24,ABARROTES,Del Río,89600
+72,P0072,Harina de maíz 1 kg Del Río - Fardo x 25,Abarrotes,Del Río,130500
+73,P0073,Aceite vegetal 1 L Doña Clara - Caja x 24,Abarrotes,Doña Clara,91500
+74,P0074,Avena en hojuelas 500 g Doña Clara - Caja x 12,Abarrotes,Doña Clara,133300
+75,P0075,Café molido 250 g Sabor Caribe - Paca x 12,Abarrotes,Sabor Caribe,43300
+76,P0076,Sal refinada 1 kg Doña Clara - Paca x 12,Abarrotes,Doña Clara,41700
+77,P0077,Sal refinada 1 kg Sabor Caribe - Caja x 12,Abarrotes,Sabor Caribe,94800
+78,P0078,Pasta espagueti 500 g Sabor Caribe - Paca x 12,Abarrotes,Sabor Caribe,78900
+79,P0079,Café molido 250 g Campo Verde - Paca x 12,Abarrotes,Campo Verde,154900
+80,P0080,Lenteja 500 g Campo Verde - Paca x 6,Abarrotes,Campo Verde,47000
+81,P0081,Agua 5 L Sabor Caribe - Caja x 12,Bebidas,Sabor Caribe,36700
+82,P0082,Malta 330 ml Nativa - Paca x 6,Bebidas,Nativa,45700
+83,P0083,Agua 600 ml Brisa - Caja x 12,Bebidas,Brisa,75300
+84,P0084,Jugo de mango 1 L Nativa - Fardo x 25,bebidas ,Nativa,93600
+85,P0085,Jugo de mango 1 L Brisa - Caja x 12,Bebidas,Brisa,69000
+86,P0086,"Gaseosa naranja 1,5 L Brisa - Paca x 12",Bebidas,Brisa,30600
+87,P0087,Refresco en polvo 15 g Nativa - Caja x 12,Bebidas,Nativa,47500
+88,P0088,Agua 600 ml Sabor Caribe - Paca x 6,Bebidas,Sabor Caribe,63500
+89,P0089,Jugo de guayaba 1 L Sabor Caribe - Caja x 24,,Sabor Caribe,65400
+90,P0090,"Gaseosa cola 1,5 L Brisa - Paca x 6",Bebidas,Brisa,59900
+91,P0091,Té frío limón 500 ml Nativa - Caja x 24,Bebidas,Nativa,37500
+92,P0092,"Gaseosa cola 1,5 L Sabor Caribe - Paca x 6",Bebidas,Sabor Caribe,49900
+93,P0093,Refresco en polvo 15 g Fresquita - Caja x 12,Bebidas,Fresquita,70600
+94,P0094,Té frío limón 500 ml Fresquita - Caja x 12,Bebidas,Fresquita,77100
+95,P0095,Jugo de naranja 250 ml Nativa - Caja x 12,Bebidas,Nativa,78900
+96,P0096,Kumis 1 L Sabor Caribe - Paca x 6,Bebidas,Sabor Caribe,39800
+97,P0097,Té frío limón 500 ml Brisa - Caja x 12,Bebidas,Brisa,86600
+98,P0098,Gaseosa limón 400 ml Brisa - Caja x 24,Bebidas,Brisa,43400
+99,P0099,"Gaseosa naranja 1,5 L Fresquita - Paca x 6",Bebidas,Fresquita,26500
+100,P0100,"Gaseosa naranja 1,5 L Nativa - Fardo x 25",Bebidas,Nativa,43900
+101,P0101,Jugo de naranja 250 ml Sabor Caribe - Caja x 12,Bebidas,Sabor Caribe,66200
+102,P0102,Agua 5 L Brisa - Caja x 12,Bebidas,Brisa,54900
+103,P0103,Jugo de mango 1 L Fresquita - Paca x 12,Bebidas,Fresquita,69600
+104,P0104,"Gaseosa cola 1,5 L Nativa - Fardo x 25",Bebidas,Nativa,54500
+105,P0105,Kumis 1 L Nativa - Fardo x 25,Bebidas,Nativa,65200
+106,P0106,Jugo de guayaba 1 L Fresquita - Paca x 6,Bebidas,Fresquita,26100
+107,P0107,Refresco en polvo 15 g Sabor Caribe - Paca x 12,Bebidas,Sabor Caribe,85500
+108,P0108,Jugo de naranja 250 ml Fresquita - Caja x 24,Bebidas,Fresquita,59100
+109,P0109,Agua 5 L Nativa - Caja x 24,Bebidas,Nativa,45700
+110,P0110,Malta 330 ml Sabor Caribe - Paca x 12,Bebidas,Sabor Caribe,50600
+111,P0111,Gaseosa limón 400 ml Nativa - Paca x 12,Bebidas,Nativa,79400
+112,P0112,Té frío limón 500 ml Sabor Caribe - Caja x 12,Bebidas,Sabor Caribe,94600
+113,P0113,Agua 5 L Fresquita - Paca x 6,Bebidas,Fresquita,34700
+114,P0114,Malta 330 ml Fresquita - Caja x 12,Bebidas,Fresquita,59600
+115,P0115,Agua 600 ml Fresquita - Fardo x 25,Bebidas,Fresquita,33200
+116,P0116,Agua 600 ml Nativa - Caja x 24,Bebidas,Nativa,94400
+117,P0117,Refresco en polvo 15 g Brisa - Paca x 12,Bebidas,Brisa,32700
+118,P0118,Bebida hidratante 500 ml Fresquita - Paca x 6,Bebidas,Fresquita,68500
+119,P0119,Bebida hidratante 500 ml Sabor Caribe - Caja x 24,Bebidas,Sabor Caribe,49800
+120,P0120,"Gaseosa naranja 1,5 L Sabor Caribe - Paca x 6",Bebidas,Sabor Caribe,93300
+121,P0121,Jugo de naranja 250 ml Brisa - Fardo x 25,Bebidas,Brisa,94100
+122,P0122,Bebida hidratante 500 ml Brisa - Fardo x 25,Bebidas,Brisa,55800
+123,P0123,Jugo de mango 1 L Sabor Caribe - Fardo x 25,Bebidas,Sabor Caribe,70100
+124,P0124,Gaseosa limón 400 ml Sabor Caribe - Caja x 24,Bebidas,Sabor Caribe,61000
+125,P0125,Jugo de guayaba 1 L Brisa - Paca x 12,Bebidas,Brisa,86300
+126,P0126,Bebida hidratante 500 ml Nativa - Fardo x 25,Bebidas,Nativa,28200
+127,P0127,Malta 330 ml Brisa - Paca x 6,Bebidas,Brisa,95000
+128,P0128,Kumis 1 L Brisa - Fardo x 25,Bebidas,Brisa,55200
+129,P0129,"Gaseosa cola 1,5 L Fresquita - Fardo x 25",Bebidas,Fresquita,25700
+130,P0130,Kumis 1 L Fresquita - Caja x 24,Bebidas,Fresquita,48200
+131,P0131,Limpiador multiusos 1 L Casa Limpia - Fardo x 25,,Casa Limpia,113200
+132,P0132,Esponja doble uso Limpiamax - Fardo x 25,Aseo,Limpiamax,42800
+133,P0133,Detergente líquido 2 L Casa Limpia - Paca x 12,Aseo,Casa Limpia,127700
+134,P0134,Lavaloza crema 500 g Casa Limpia - Caja x 12,Aseo,Casa Limpia,111600
+135,P0135,Papel higiénico x 4 Casa Limpia - Paca x 6,Aseo,Casa Limpia,87400
+136,P0136,Suavizante 1 L Limpiamax - Fardo x 25,Aseo,Limpiamax,75900
+137,P0137,Esponja doble uso Brillo Hogar - Caja x 24,Aseo,Brillo Hogar,130200
+138,P0138,Papel higiénico x 4 Aurora - Fardo x 25,ASEO,Aurora,112100
+139,P0139,Blanqueador 1 L Limpiamax - Caja x 12,Aseo,Limpiamax,42300
+140,P0140,Detergente líquido 2 L Limpiamax - Caja x 12,Aseo,Limpiamax,86100
+141,P0141,Blanqueador 1 L Casa Limpia - Paca x 12,Aseo,Casa Limpia,111700
+142,P0142,Esponja doble uso Aurora - Paca x 6,Aseo,Aurora,31000
+143,P0143,Detergente en polvo 1 kg Brillo Hogar - Fardo x 25,Aseo,Brillo Hogar,65200
+144,P0144,Blanqueador 1 L Aurora - Paca x 6,Aseo,Aurora,73100
+145,P0145,Desinfectante pisos 2 L Brillo Hogar - Caja x 12,Aseo,Brillo Hogar,35600
+146,P0146,Bolsas de basura x 10 Limpiamax - Paca x 6,Aseo,Limpiamax,122600
+147,P0147,Limpiador multiusos 1 L Limpiamax - Paca x 6,Aseo,Limpiamax,127400
+148,P0148,Blanqueador 1 L Brillo Hogar - Paca x 12,Aseo,Brillo Hogar,51200
+149,P0149,Detergente en polvo 1 kg Limpiamax - Caja x 12,Aseo,Limpiamax,87800
+150,P0150,Suavizante 1 L Brillo Hogar - Paca x 12,Aseo,Brillo Hogar,39400
+151,P0151,Limpiador multiusos 1 L Brillo Hogar - Paca x 6,Aseo,Brillo Hogar,120900
+152,P0152,Papel higiénico x 4 Limpiamax - Paca x 6,Aseo,Limpiamax,107700
+153,P0153,Detergente líquido 2 L Brillo Hogar - Paca x 6,Aseo,Brillo Hogar,112200
+154,P0154,Papel higiénico x 4 Brillo Hogar - Paca x 12,Aseo,Brillo Hogar,82100
+155,P0155,Jabón en barra 300 g Brillo Hogar - Paca x 6,Aseo,Brillo Hogar,119800
+156,P0156,Detergente en polvo 1 kg Aurora - Caja x 12,Aseo,Aurora,127000
+157,P0157,Suavizante 1 L Aurora - Paca x 6,Aseo,Aurora,105100
+158,P0158,Bolsas de basura x 10 Aurora - Fardo x 25,Aseo,Aurora,74200
+159,P0159,Servilletas x 100 Brillo Hogar - Paca x 12,Aseo,Brillo Hogar,81200
+160,P0160,Bolsas de basura x 10 Brillo Hogar - Fardo x 25,Aseo,Brillo Hogar,133000
+161,P0161,Desinfectante pisos 2 L Casa Limpia - Paca x 6,Aseo,Casa Limpia,129900
+162,P0162,Servilletas x 100 Casa Limpia - Caja x 24,Aseo,Casa Limpia,101300
+163,P0163,Jabón en barra 300 g Casa Limpia - Fardo x 25,Aseo,Casa Limpia,88200
+164,P0164,Limpiador multiusos 1 L Aurora - Paca x 12,Aseo,Aurora,52200
+165,P0165,Detergente en polvo 1 kg Casa Limpia - Paca x 12,Aseo,Casa Limpia,116100
+166,P0166,Desinfectante pisos 2 L Aurora - Caja x 24,Aseo,Aurora,110100
+167,P0167,Jabón en barra 300 g Aurora - Fardo x 25,Aseo,Aurora,75300
+168,P0168,Suavizante 1 L Casa Limpia - Paca x 12,Aseo,Casa Limpia,102600
+169,P0169,Servilletas x 100 Limpiamax - Paca x 12,Aseo,Limpiamax,81400
+170,P0170,Lavaloza crema 500 g Limpiamax - Paca x 12,Aseo,Limpiamax,86700
+171,P0171,Detergente líquido 2 L Aurora - Caja x 24,Aseo,Aurora,48400
+172,P0172,Jabón en barra 300 g Limpiamax - Fardo x 25,Aseo,Limpiamax,116100
+173,P0173,Esponja doble uso Casa Limpia - Paca x 6,Aseo,Casa Limpia,71900
+174,P0174,Servilletas x 100 Aurora - Fardo x 25,Aseo,Aurora,40300
+175,P0175,Lavaloza crema 500 g Brillo Hogar - Paca x 6,Aseo,Brillo Hogar,53300
+176,P0176,Crema corporal 400 ml Suavecita - Paca x 12,Cuidado personal,Suavecita,48600
+177,P0177,Pañales etapa 3 x 30 Brisa - Paca x 12,Cuidado personal,Brisa,105500
+178,P0178,Champú 400 ml Brisa - Caja x 24,Cuidado personal,Brisa,56000
+179,P0179,Acondicionador 400 ml Nativa - Caja x 12,cuidado personal ,Nativa,87100
+180,P0180,Gel antibacterial 500 ml Suavecita - Paca x 12,Cuidado personal,Suavecita,130300
+181,P0181,Cepillo dental Aurora - Caja x 24,Cuidado personal,Aurora,111200
+182,P0182,Desodorante roll-on 50 ml Suavecita - Fardo x 25,Cuidado personal,Suavecita,42000
+183,P0183,Desodorante roll-on 50 ml Nativa - Caja x 24,Cuidado personal,Nativa,79200
+184,P0184,Crema corporal 400 ml Brisa - Caja x 12,Cuidado personal,Brisa,169900
+185,P0185,Talco 200 g Brisa - Paca x 6,Cuidado personal,Brisa,57400
+186,P0186,Jabón de tocador 110 g Aurora - Caja x 24,Cuidado personal,Aurora,88600
+187,P0187,Jabón de tocador 110 g Nativa - Fardo x 25,Cuidado personal,Nativa,90100
+188,P0188,Champú 400 ml Nativa - Paca x 6,Cuidado personal,Nativa,133900
+189,P0189,Acondicionador 400 ml Aurora - Paca x 6,Cuidado personal,Aurora,155500
+190,P0190,Toallas higiénicas x 10 Aurora - Caja x 24,Cuidado personal,Aurora,122800
+191,P0191,Crema dental 100 ml Aurora - Paca x 6,Cuidado personal,Aurora,71800
+192,P0192,Cepillo dental Brisa - Paca x 6,Cuidado personal,Brisa,39900
+193,P0193,Talco 200 g Nativa - Caja x 12,Cuidado personal,Nativa,131100
+194,P0194,Desodorante roll-on 50 ml Brisa - Caja x 12,Cuidado personal,Brisa,139400
+195,P0195,Pañales etapa 3 x 30 Aurora - Fardo x 25,Cuidado personal,Aurora,142300
+196,P0196,Acondicionador 400 ml Brisa - Caja x 12,Cuidado personal,Brisa,161100
+197,P0197,Acondicionador 400 ml Suavecita - Fardo x 25,Cuidado personal,Suavecita,135000
+198,P0198,Cepillo dental Suavecita - Paca x 6,Cuidado personal,Suavecita,38700
+199,P0199,Crema dental 100 ml Suavecita - Caja x 24,Cuidado personal,Suavecita,116600
+200,P0200,Cepillo dental Nativa - Caja x 24,Cuidado personal,Nativa,117800
+201,P0201,Pañales etapa 3 x 30 Suavecita - Caja x 12,Cuidado personal,Suavecita,100400
+202,P0202,Pañales etapa 3 x 30 Nativa - Caja x 24,Cuidado personal,Nativa,151400
+203,P0203,Gel antibacterial 500 ml Brisa - Caja x 12,Cuidado personal,Brisa,68600
+204,P0204,Crema corporal 400 ml Aurora - Paca x 12,Cuidado personal,Aurora,43600
+205,P0205,Champú 400 ml Suavecita - Paca x 6,Cuidado personal,Suavecita,162700
+206,P0206,Desodorante roll-on 50 ml Aurora - Fardo x 25,Cuidado personal,Aurora,45800
+207,P0207,Jabón de tocador 110 g Brisa - Caja x 12,Cuidado personal,Brisa,170200
+208,P0208,Talco 200 g Suavecita - Paca x 12,Cuidado personal,Suavecita,78700
+209,P0209,Crema dental 100 ml Nativa - Caja x 24,Cuidado personal,Nativa,94500
+210,P0210,Gel antibacterial 500 ml Nativa - Paca x 12,Cuidado personal,Nativa,103500
+211,P0211,Crema dental 100 ml Brisa - Paca x 6,Cuidado personal,Brisa,106900
+212,P0212,Talco 200 g Aurora - Paca x 6,Cuidado personal,Aurora,63200
+213,P0213,Toallas higiénicas x 10 Suavecita - Fardo x 25,Cuidado personal,Suavecita,66800
+214,P0214,Toallas higiénicas x 10 Nativa - Paca x 6,Cuidado personal,Nativa,0
+215,P0215,Crema corporal 400 ml Nativa - Caja x 24,Cuidado personal,Nativa,48000
+216,P0216,Ponqué 30 g Sabor Caribe - Fardo x 25,,Sabor Caribe,63000
+217,P0217,Chicharrón 30 g Doña Clara - Paca x 12,Snacks,Doña Clara,28400
+218,P0218,Ponqué 30 g Doña Clara - Caja x 24,Snacks,Doña Clara,67500
+219,P0219,Galletas de soda x 6 Doña Clara - Paca x 6,Snacks,Doña Clara,26200
+220,P0220,Platanitos 45 g Crujis - Fardo x 25,Snacks,Crujis,57000
+221,P0221,Ponqué 30 g Crujis - Caja x 24,Snacks,Crujis,53600
+222,P0222,Galletas dulces x 12 Doña Clara - Caja x 24,Snacks,Doña Clara,28700
+223,P0223,Papas fritas 45 g Crujis - Paca x 12,Snacks,Crujis,64500
+224,P0224,Bombones x 24 Crujis - Paca x 12,Snacks,Crujis,45700
+225,P0225,Rosquitas 40 g Fresquita - Fardo x 25,Snacks,Fresquita,63600
+226,P0226,Chocolatina 25 g Doña Clara - Paca x 12,Snacks,Doña Clara,76900
+227,P0227,Bombones x 24 Sabor Caribe - Paca x 6,Snacks,Sabor Caribe,73700
+228,P0228,Galletas dulces x 12 Fresquita - Paca x 12,Snacks,Fresquita,77500
+229,P0229,Rosquitas 40 g Sabor Caribe - Paca x 6,Snacks,Sabor Caribe,74600
+230,P0230,Chocolatina 25 g Fresquita - Paca x 6,Snacks,Fresquita,46000
+231,P0231,Rosquitas 40 g Crujis - Caja x 24,Snacks,Crujis,51500
+232,P0232,Chicharrón 30 g Sabor Caribe - Fardo x 25,Snacks,Sabor Caribe,82200
+233,P0233,Platanitos 45 g Doña Clara - Caja x 24,Snacks,Doña Clara,52300
+234,P0234,Maní salado 50 g Fresquita - Fardo x 25,Snacks,Fresquita,28600
+235,P0235,Platanitos 45 g Fresquita - Fardo x 25,Snacks,Fresquita,54500
+236,P0236,Galletas de soda x 6 Sabor Caribe - Caja x 24,Snacks,Sabor Caribe,65400
+237,P0237,Galletas de soda x 6 Crujis - Caja x 24,Snacks,Crujis,71600
+238,P0238,Maní salado 50 g Sabor Caribe - Paca x 12,Snacks,Sabor Caribe,42700
+239,P0239,Bombones x 24 Doña Clara - Paca x 6,Snacks,Doña Clara,30600
+240,P0240,Galletas dulces x 12 Crujis - Caja x 12,Snacks,Crujis,37300
+241,P0241,Rosquitas 40 g Doña Clara - Paca x 12,Snacks,Doña Clara,39900
+242,P0242,Chicharrón 30 g Crujis - Paca x 12,Snacks,Crujis,38800
+243,P0243,Platanitos 45 g Sabor Caribe - Caja x 12,Snacks,Sabor Caribe,26700
+244,P0244,Papas fritas 45 g Doña Clara - Paca x 6,Snacks,Doña Clara,71900
+245,P0245,Maní salado 50 g Crujis - Fardo x 25,Snacks,Crujis,52100
+246,P0246,Bombones x 24 Fresquita - Paca x 6,Snacks,Fresquita,34000
+247,P0247,Galletas de soda x 6 Fresquita - Paca x 12,Snacks,Fresquita,84200
+248,P0248,Chocolatina 25 g Crujis - Paca x 6,Snacks,Crujis,58400
+249,P0249,Chocolatina 25 g Sabor Caribe - Caja x 12,Snacks,Sabor Caribe,27500
+250,P0250,Papas fritas 45 g Fresquita - Caja x 12,Snacks,Fresquita,79300

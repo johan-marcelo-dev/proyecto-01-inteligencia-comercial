@@ -41,7 +41,7 @@ El proyecto sigue un proceso de análisis de datos en 7 fases. Cada fase tiene u
 |---|---|---|---|---|
 | 0 · Diagnóstico | Contexto, dolores y trazabilidad | [00_diagnostico_dolores.md](docs/00_diagnostico_dolores.md) | ✅ | ✅ |
 | 1 · Preguntar | Preguntas, KPIs, alcance y supuestos | [01_definicion_negocio.md](docs/01_definicion_negocio.md) | ✅ | ✅ |
-| 2 · Preparar | Datos, mapa de fuentes y diccionario | `02_diccionario_datos.md` | ⏳ | ⏳ |
+| 2 · Preparar | Datos, mapa de fuentes y diccionario | [02_diccionario_datos.md](docs/02_diccionario_datos.md) | ✅ | ⏳ |
 | 3 · Procesar | Calidad y limpieza de datos | `03_bitacora_limpieza.md` | ⏳ | ⏳ |
 | 4 · Analizar | SQL, modelo estrella y exploración | `04_analisis.md` | ⏳ | ⏳ |
 | 5 · Compartir | Dashboard | `05_dashboard.md` | ⏳ | ⏳ |

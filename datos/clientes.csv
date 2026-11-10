@@ -1,0 +1,609 @@
+id_cliente,nit,nombre_cliente,tipo_cliente,ciudad,id_zona,id_vendedor,condicion_pago,cupo_credito,fecha_creacion
+1,895440027-7,Minimercado La Bendición,Minimercado,Barranquilla,1,2,Crédito 30 días,17300000,2017-04-18
+2,828991095-1,Minimercado El Vecino,TIENDA,Sabanalarga,1,3,Crédito 30 días,17500000,2019-08-17
+3,828986816-5,Supermercado Doña Ana,Supermercado,Malambo,1,3,Crédito 60 días,66500000,2021-10-10
+4,854365641-9,Droguería Mi Barrio,Droguería,Sabanalarga,1,3,Crédito 30 días,8300000,2019-09-18
+5,840748330-2,Tienda La Victoria,Tienda de barrio,Barranquilla,1,1,Crédito 30 días,3900000,2016-04-25
+6,873827017-4,Tienda El Paraíso,Tienda de barrio,Malambo,1,3,Crédito 30 días,3100000,2017-05-07
+7,884132797-3,Minimercado El Sol,Minimercado,Malambo,1,1,Crédito 30 días,12600000,2019-10-06
+8,877238513-7,Supermercado La Victoria,Supermercado,Barranquilla,1,2,Crédito 60 días,44200000,2020-03-17
+9,879139395-1,Minimercado El Ahorro,Minimercado,Barranquilla,1,3,Crédito 30 días,15000000,2025-10-24
+10,873322226-0,Minimercado La Primavera,Minimercado,Barranquilla,1,2,Contado,0,2022-05-22
+11,871687328-4,Tienda La 30,Tienda de barrio,Barranquilla,1,1,Contado,0,2022-04-19
+12,856120973-1,Tienda El Paraíso,Tienda de barrio,Barranquilla,1,2,Crédito 30 días,5300000,2024-08-26
+13,873389049-9,Tienda San José,Tienda de barrio,Sabanalarga,1,2,Contado,0,2019-01-18
+14,859837263-7,Droguería San José,Droguería,Sabanalarga,1,1,Contado,0,2017-11-08
+15,861347829-6,Droguería El Prado,Droguería,Barranquilla,1,1,Crédito 30 días,3300000,2026-01-10
+16,865392044-4,Tienda San José,Tienda de barrio,Soledad,1,3,Crédito 30 días,3400000,2023-10-10
+17,873173388-2,Tienda San Martín,Tienda de barrio,Malambo,1,2,Crédito 30 días,3800000,2022-04-16
+18,871781758-3,Minimercado La Popular,Minimercado,Malambo,1,3,Contado,0,2018-05-22
+19,823767210-0,Minimercado El Prado,Minimercado,Sabanalarga,1,1,Contado,0,2020-05-16
+20,865422913-8,Tienda La Fe,Tienda de barrio,Sabanalarga,1,3,Crédito 30 días,2900000,2021-01-02
+21,874068505-8,Supermercado El Triunfo,Supermercado,Malambo,1,1,Crédito 60 días,50800000,2022-03-24
+22,846284802-3,Tienda El Prado,Tienda de barrio,Barranquilla,1,3,Contado,0,2022-07-20
+23,864297872-5,Tienda El Sol,Tienda de barrio,Sabanalarga,1,3,Contado,0,2020-11-05
+24,814557080-3,Droguería Mi Barrio,Droguería,Puerto Colombia,1,1,Crédito 30 días,3200000,2018-08-15
+25,897855807-9,Tienda El Porvenir,Tienda de barrio,Barranquilla,1,3,Contado,0,2017-06-03
+26,846869665-0,Tienda Santa Lucía,Tienda de barrio,Barranquilla,1,3,Contado,0,2023-07-04
+27,821854535-5,Minimercado Las Palmas,Minimercado,Sabanalarga,1,1,Crédito 60 días,10900000,2015-09-26
+28,860985461-6,Droguería Doña Ana,Droguería,barranquilla,1,2,Contado,0,2021-04-09
+29,839120157-4,Supermercado El Vecino,Supermercado,Malambo,1,3,Crédito 30 días,75200000,2020-08-09
+30,901701476-6,Minimercado Santa Lucía,Minimercado,B/quilla,1,1,Crédito 60 días,7100000,2023-09-15
+31,894643875-4,Tienda Santa Lucía del Centro,Tienda de barrio,Barranquilla,1,1,Contado,0,2022-04-17
+32,843717108-0,Tienda El Sol,Tienda de barrio,Malambo,1,1,Contado,0,2019-02-22
+33,813874241-0,Droguería Brisas del Mar,Droguería,Soledad,1,3,Contado,0,2026-01-26
+34,828635358-0,Minimercado La Popular,Minimercado,Barranquilla,1,2,Contado,0,2020-06-14
+35,813511945-8,Tienda La Ceiba,Tienda de barrio,Malambo,1,2,Contado,0,2024-04-09
+36,801271209-2,Minimercado Santa Lucía,Minimercado,Sabanalarga,1,1,Crédito 30 días,7100000,2022-06-14
+37,832527034-9,Supermercado El Porvenir,Supermercado,Barranquilla,1,1,Crédito 60 días,44800000,2026-04-08
+38,831253795-1,Tienda La Economía,Tienda de barrio,Barranquilla,1,3,Contado,0,2023-07-01
+39,872293294-6,Tienda San Martín Norte,Tienda de barrio,Malambo,1,2,Crédito 30 días,5600000,2020-11-24
+40,875859724-4,Tienda Mi Barrio,Tienda de barrio,Malambo,1,2,Crédito 30 días,5300000,2016-04-21
+41,896135462-1,Minimercado Brisas del Mar,Minimercado,Barranquilla,1,1,Crédito 30 días,13900000,2019-04-06
+42,840938298-1,Supermercado La Floresta,Supermercado,Soledad,1,3,Crédito 60 días,61200000,2017-05-18
+43,860058890-8,Minimercado La Primavera,Minimercado,Malambo,1,3,Crédito 30 días,16900000,2018-08-13
+44,832266612-9,Tienda El Paraíso,Tienda de barrio,Soledad,1,1,Contado,0,2024-06-11
+45,896658715-8,Minimercado El Prado Central,Minimercado,Sabanalarga,1,2,Contado,0,2015-08-11
+46,830502854-8,Tienda Las Palmas,Tienda de barrio,Puerto Colombia,1,3,Contado,0,2017-05-04
+47,832747303-5,Minimercado La Victoria,Minimercado,Malambo,1,1,Contado,0,2020-08-02
+48,834207469-4,Droguería San Martín,Droguería,B/quilla,1,1,Contado,0,2019-03-11
+49,828724201-9,Minimercado La 30,Minimercado,Sabanalarga,1,3,Crédito 30 días,8400000,2022-03-06
+50,850155744-6,Minimercado La Ceiba,Minimercado,Barranquilla,1,2,Crédito 30 días,7300000,2016-01-13
+51,817498266-1,Supermercado La Economía,Supermercado,Soledad,1,1,Crédito 60 días,46700000,2023-02-13
+52,829750388-6,Minimercado Don Pepe,Minimercado,Malambo,1,1,Crédito 60 días,10600000,2025-07-03
+53,828151150-8,Tienda El Ahorro,Tienda de barrio,Malambo,1,1,Contado,0,2019-09-14
+54,840777634-9,Tienda Villa Rosa,Tienda de barrio,Barranquilla,1,3,Contado,0,2018-09-21
+55,851684518-5,Minimercado La 30,Minimercado,Barranquilla,1,2,Crédito 30 días,13900000,2024-06-29
+56,803513149-5,Tienda El Sol del Centro,Tienda de barrio,Malambo,1,2,Contado,0,2022-09-26
+57,851922806-5,Minimercado Don Pepe,Minimercado,Barranquilla,1,2,Contado,0,2016-06-21
+58,896855274-9,Tienda Las Palmas,Tienda de barrio,Barranquilla,1,2,Contado,0,2018-03-15
+59,818828834-5,Tienda El Triunfo,Tienda de barrio,Puerto Colombia,1,1,Contado,0,2020-07-09
+60,865756075-2,Minimercado Santa Lucía,Minimercado,Soledad,1,2,Crédito 30 días,6800000,2017-10-15
+61,833551276-3,Tienda La Victoria,Tienda de barrio,Sabanalarga,1,3,Contado,0,2026-05-10
+62,833673910-8,Tienda La Bendición,Tienda de barrio,Barranquilla,1,3,Crédito 30 días,5700000,2015-11-19
+63,836004750-6,Supermercado Santa Lucía,Supermercado,Malambo,1,3,Crédito 60 días,74700000,2019-09-13
+64,839322008-0,Minimercado El Triunfo,Minimercado,Barranquilla,1,1,Contado,0,2019-05-01
+65,858956262-0,Tienda La Victoria Norte,Tienda de barrio,Barranquilla,1,3,Crédito 30 días,4600000,2026-02-17
+66,887118229-3,Tienda El Triunfo,Tienda de barrio,Barranquilla ,1,3,Contado,0,2018-03-22
+67,869852182-9,Droguería Don Pepe,Droguería,Barranquilla,1,2,Contado,0,2022-08-04
+68,876088337-9,Tienda El Vecino,Tienda de barrio,Soledad,1,3,Contado,0,2019-09-24
+69,895413648-8,Supermercado La Gran Vía,Supermercado,Soledad,1,3,Crédito 60 días,43000000,2016-03-08
+70,806158144-5,Tienda El Triunfo No. 2,Tienda de barrio,B/quilla,1,2,Contado,0,2026-02-16
+71,808181735-3,Tienda Santa Lucía,Tienda de barrio,Soledad,1,1,Contado,0,2019-05-26
+72,839772748-9,Tienda Don Pepe,Tienda de barrio,Barranquilla,1,1,Contado,0,2020-09-15
+73,829807219-4,Minimercado El Vecino,Minimercado,Soledad,1,3,Contado,0,2026-07-04
+74,822526585-1,Tienda El Prado Express,Tienda de barrio,Barranquilla,1,1,Crédito 30 días,5800000,2023-08-02
+75,804332787-5,Supermercado El Triunfo,Supermercado,Soledad,1,3,Crédito 30 días,78500000,2023-04-01
+76,802902629-1,Tienda La Fe,Tienda de barrio,Puerto Colombia,1,3,Contado,0,2015-01-25
+77,894940092-9,Tienda La 30 Norte,Tienda de barrio,Barranquilla,1,2,Crédito 30 días,5600000,2025-01-13
+78,824877106-8,Minimercado La Gran Vía,Minimercado,Soledad,1,1,Crédito 30 días,12700000,2017-03-06
+79,870901497-2,Tienda La Ceiba,Tienda de barrio,Barranquilla,1,3,Contado,0,2025-02-03
+80,878123397-6,Minimercado La Ceiba Express,Minimercado,Barranquilla,1,3,Crédito 60 días,13500000,2015-02-25
+81,854124327-8,Minimercado El Vecino,Minimercado,Puerto Colombia,1,2,Contado,0,2017-05-27
+82,809377647-6,Tienda La Floresta,Tienda de barrio,Soledad,1,3,Contado,0,2023-08-15
+83,858595398-6,Tienda Santa Lucía del Centro,Tienda de barrio,Soledad,1,1,Contado,0,2019-09-15
+84,863918985-5,Tienda Las Palmas,Tienda de barrio,Sabanalarga,1,2,Crédito 30 días,3800000,2017-03-02
+85,819752424-1,Droguería Santa Lucía,Droguería,Malambo,1,1,Crédito 30 días,3200000,2021-07-03
+86,837380275-1,Minimercado La Bendición del Centro,Minimercado,Barranquilla,1,2,Contado,0,2020-12-03
+87,846243562-4,Supermercado El Prado,Supermercado,Barranquilla,1,1,Crédito 60 días,36200000,2017-02-11
+88,860448395-0,Minimercado La Primavera,Minimercado,Puerto Colombia,1,3,Crédito 30 días,13500000,2017-10-03
+89,816120546-7,Droguería La Popular,Droguería,Barranquilla,1,3,Contado,0,2023-09-12
+90,838301246-8,Tienda La Primavera,Tienda de barrio,Puerto Colombia,1,2,Contado,0,2020-01-24
+91,858106311-5,Minimercado El Sol,Minimercado,Barranquilla,1,3,Crédito 30 días,7600000,2016-05-26
+92,867335927-6,Minimercado Brisas del Mar,Minimercado,Malambo,1,3,Crédito 30 días,18000000,2021-12-04
+93,850082004-2,Minimercado La Gran Vía,Minimercado,Barranquilla,1,2,Contado,0,2016-04-02
+94,823150649-5,Tienda La Victoria,Tienda de barrio,Soledad,1,3,Crédito 30 días,3300000,2015-08-13
+95,872793989-7,Supermercado El Sol,Supermercado,Sabanalarga,1,2,Crédito 30 días,82700000,2020-01-07
+96,901003876-4,Minimercado El Prado,Minimercado,Puerto Colombia,1,3,Crédito 30 días,17100000,2026-08-14
+97,802685091-9,Tienda El Vecino,Tienda de barrio,Barranquilla,1,3,Crédito 30 días,5100000,2023-04-18
+98,869129944-2,Tienda Doña Ana,Tienda de barrio,Barranquilla,1,1,Crédito 30 días,4600000,2024-12-13
+99,883446941-6,Tienda La Economía,Tienda de barrio,Malambo,1,2,Contado,0,2019-01-24
+100,832155275-4,Minimercado Las Palmas,Minimercado,Barranquilla,1,1,Crédito 30 días,14700000,2015-04-27
+101,877220383-4,Tienda El Paraíso del Centro,Tienda de barrio,Soledad,1,2,Contado,0,2017-02-07
+102,814006977-6,Tienda Santa Lucía,Tienda de barrio,Malambo,1,3,Contado,0,2016-10-23
+103,807454845-3,Tienda El Progreso,Tienda de barrio,Puerto Colombia,1,1,Contado,0,2024-12-22
+104,812336235-1,Minimercado La Primavera Norte,Minimercado,Barranquilla,1,3,Contado,0,2023-03-17
+105,800103127-9,Tienda Villa Rosa No. 2,Tienda de barrio,Barranquilla,1,3,Contado,0,2019-10-20
+106,839893871-4,Tienda La Esquina,Tienda de barrio,Barranquilla,1,1,Contado,0,2020-06-20
+107,900098237-4,Supermercado El Triunfo,Supermercado,Barranquilla,1,3,Crédito 60 días,65200000,2024-06-12
+108,839205210-9,Tienda El Vecino,Tienda de barrio,Sabanalarga,1,3,Contado,0,2022-09-22
+109,836137449-9,Droguería La Floresta,Droguería,Barranquilla,1,3,Contado,0,2018-02-23
+110,860013374-1,Tienda Santa Lucía Sur,Tienda de barrio,Barranquilla,1,3,Contado,0,2020-03-24
+111,808685273-8,Tienda La Gran Vía,Tienda de barrio,Sabanalarga,1,3,Contado,0,2024-06-13
+112,814769433-1,Tienda Los Almendros,Tienda de barrio,Soledad,1,1,Contado,0,2018-03-05
+113,887973812-8,Tienda Las Palmas,Tienda de barrio,Soledad,1,3,Crédito 30 días,3700000,2024-08-13
+114,832220706-1,Minimercado La Victoria,Minimercado,Barranquilla,1,1,Crédito 30 días,9000000,2019-07-23
+115,846259166-5,Tienda El Prado,Tienda de barrio,Puerto Colombia,1,3,Contado,0,2024-08-09
+116,856793299-2,Minimercado San Martín,Minimercado,Barranquilla,1,2,Contado,0,2017-06-02
+117,864688698-3,Minimercado La Popular Norte,Minimercado,Barranquilla,1,2,Crédito 60 días,12500000,2019-12-01
+118,885171595-8,Minimercado Santa Lucía Express,Minimercado,Barranquilla,1,1,Contado,0,2021-02-19
+119,858922082-4,Tienda El Progreso,Tienda de barrio,Soledad,1,3,Contado,0,2023-12-11
+120,816065821-8,Tienda El Prado,Tienda de barrio,Sabanalarga,1,2,Crédito 30 días,5500000,2019-03-20
+121,894284007-5,Tienda Mi Barrio,Tienda de barrio,Sabanalarga,1,1,Crédito 30 días,2400000,2017-08-25
+122,898071069-7,Tienda La Gran Vía,Tienda de barrio,Barranquilla,1,1,Contado,0,2025-06-25
+123,875300434-4,Minimercado La Bendición,Minimercado,Sabanalarga,1,2,Crédito 30 días,16600000,2015-01-14
+124,839765636-7,Tienda El Sol Central,Tienda de barrio,Malambo,1,2,Crédito 30 días,2800000,2023-07-19
+125,852094294-4,Tienda Santa Lucía Express,Tienda de barrio,Barranquilla,1,1,Contado,0,2015-08-16
+126,844746421-5,Tienda El Prado,Tienda de barrio,Malambo,1,1,Contado,0,2017-11-27
+127,880744063-7,Minimercado La Economía,Minimercado,Soledad,1,1,Crédito 30 días,11700000,2018-08-13
+128,886065841-5,Minimercado San Martín,Minimercado,Malambo,1,3,Crédito 60 días,16000000,2022-05-26
+129,901344571-5,Tienda El Ahorro Sur,Tienda de barrio,Malambo,1,2,Contado,0,2021-01-15
+130,884335320-3,Supermercado El Triunfo Sur,Supermercado,Barranquilla,1,1,Crédito 60 días,74000000,2022-08-04
+131,878904602-2,Tienda La Gran Vía Central,,Barranquilla,1,2,Crédito 30 días,4600000,2023-09-24
+132,842425219-2,Minimercado San José,,Puerto Colombia,1,1,Crédito 30 días,8200000,2015-02-16
+133,810019686-6,Droguería El Vecino,Droguería,Barranquilla,1,3,Crédito 30 días,6100000,2016-07-22
+134,857755537-2,Droguería La Floresta No. 2,Droguería,B/quilla,1,2,Crédito 30 días,4100000,2017-10-25
+135,813212086-3,Supermercado El Vecino,Supermercado,B/quilla,1,1,Crédito 60 días,38100000,2018-10-05
+136,800722973-4,Droguería El Prado Express,Droguería,Barranquilla,1,3,Crédito 30 días,8600000,2018-02-11
+137,850224648-2,Droguería La Bendición,Droguería,Barranquilla,1,1,Contado,0,2025-05-19
+138,801939615-1,Droguería Don Pepe,Droguería,Malambo,1,1,Contado,0,2018-05-26
+139,838591078-3,Minimercado Santa Lucía,Minimercado,Malambo,1,3,Contado,0,2021-05-22
+140,813839879-9,Tienda Mi Barrio,Tienda de barrio,Soledad,1,3,Contado,0,2018-04-05
+141,819659892-5,Supermercado El Ahorro,Supermercado,Barranquilla,1,3,Crédito 30 días,68600000,2021-06-02
+142,861042812-5,Minimercado La Economía,Minimercado,Barranquilla,1,3,Crédito 60 días,11700000,2024-07-14
+143,810232237-8,Tienda Los Almendros del Centro,Tienda de barrio,Soledad,1,1,Contado,0,2020-10-03
+144,894700494-9,Tienda El Porvenir,Tienda de barrio,Sabanalarga,1,3,Contado,0,2015-01-03
+145,840161319-6,Tienda La Floresta,Tienda de barrio,Sabanalarga,1,2,Crédito 30 días,5900000,2025-10-19
+146,862484613-4,Tienda La Fe Express,Tienda de barrio,Sabanalarga,1,2,Crédito 30 días,5500000,2021-02-16
+147,890816924-1,Tienda La Floresta,Tienda de barrio,Barranquilla,1,3,Contado,0,2026-04-19
+148,800579329-4,Supermercado Doña Ana,Supermercado,Sabanalarga,1,2,Crédito 60 días,73000000,2018-12-07
+149,823892007-0,Tienda El Sol,Tienda de barrio,Barranquilla,1,1,Contado,0,2024-07-24
+150,801586464-0,Minimercado La 30 Sur,Minimercado,Sabanalarga,1,3,Crédito 60 días,15700000,2021-08-19
+151,838943160-3,Minimercado Don Pepe Express,Minimercado,Barranquilla,1,3,Contado,0,2021-09-12
+152,823260707-0,Minimercado La Esquina,Minimercado,Malambo,1,2,Crédito 30 días,14800000,2021-08-15
+153,837458128-2,Tienda El Triunfo,Tienda de barrio,Soledad,1,3,Crédito 30 días,4400000,2016-07-18
+154,831311590-2,Minimercado Las Palmas Express,Minimercado,Barranquilla,1,3,Crédito 30 días,7700000,2021-06-09
+155,806082065-5,Minimercado El Porvenir,Minimercado,Barranquilla,1,2,Crédito 30 días,15400000,2019-10-18
+156,815149731-0,Supermercado El Vecino del Centro,Supermercado,Malambo,1,1,Crédito 60 días,40700000,2022-07-25
+157,847348222-0,Minimercado Doña Ana,Minimercado,Soledad,1,2,Crédito 30 días,8500000,2024-11-21
+158,839615750-1,Tienda Mi Barrio Norte,Tienda de barrio,Malambo,1,2,Contado,0,2025-09-18
+159,885269142-3,Tienda El Sol,Tienda de barrio,Soledad,1,1,Contado,0,2023-12-27
+160,897294329-9,Tienda El Sol Central,Tienda de barrio,Barranquilla,1,3,Crédito 30 días,2200000,2016-12-08
+161,843043043-2,Tienda Santa Lucía,Tienda de barrio,Sabanalarga,1,3,Contado,0,2024-06-08
+162,828965178-1,Tienda El Paraíso Central,Tienda de barrio,Soledad,1,1,Contado,0,2022-05-09
+163,854392191-6,Tienda Los Almendros,Tienda de barrio,barranquilla,1,2,Contado,0,2015-04-21
+164,810919135-2,Tienda La Popular,Tienda de barrio,Barranquilla,1,1,Contado,0,2018-12-09
+165,866449428-7,Minimercado El Triunfo,Minimercado,Malambo,1,1,Crédito 60 días,17000000,2018-02-17
+166,846523015-2,Minimercado La Popular,Minimercado,Soledad,1,2,Crédito 30 días,10900000,2021-04-10
+167,896620006-6,Minimercado El Bosque,Minimercado,Barranquilla,1,2,Crédito 30 días,14400000,2016-12-14
+168,842627091-2,Tienda Santa Lucía Central,Tienda de barrio,Barranquilla,1,1,Contado,0,2017-02-01
+169,836148633-9,Droguería El Progreso,Droguería,Barranquilla,1,1,Crédito 30 días,9000000,2021-01-02
+170,884456263-7,Tienda La Gran Vía Norte,Tienda de barrio,Barranquilla,1,3,Contado,0,2018-12-07
+171,895192082-5,Minimercado La Popular Central,Minimercado,Barranquilla,1,2,Contado,0,2023-12-25
+172,899118485-8,Tienda El Triunfo Norte,Tienda de barrio,Soledad,1,3,Crédito 30 días,2300000,2018-02-22
+173,856431962-6,Tienda La Economía Central,Tienda de barrio,Barranquilla,1,3,Crédito 30 días,4600000,2024-03-13
+174,875803960-3,Tienda El Triunfo Sur,Tienda de barrio,barranquilla,1,1,Contado,0,2025-11-04
+175,815283010-7,Supermercado La Victoria del Centro,Supermercado,Barranquilla,1,1,Crédito 60 días,44800000,2016-04-05
+176,880283016-3,Tienda La Ceiba Central,Tienda de barrio,Barranquilla,1,3,Contado,0,2026-09-01
+177,816586743-0,Droguería La Economía,Droguería,Barranquilla,1,3,Crédito 30 días,5100000,2015-11-15
+178,812798795-8,Minimercado La 30 Express,Minimercado,Barranquilla,1,1,Crédito 30 días,15600000,2016-02-26
+179,815331086-3,Minimercado La Victoria Norte,Minimercado,Barranquilla,1,1,Contado,0,2019-10-27
+180,882626555-3,Droguería Brisas del Mar,Droguería,Barranquilla,1,3,Crédito 30 días,4300000,2020-04-15
+181,856735081-5,Minimercado San José,Minimercado,El Carmen de Bolívar,2,6,Contado,0,2021-05-15
+182,815309837-3,Tienda Villa Rosa,Tienda de barrio,Magangue,2,6,Contado,0,2015-12-16
+183,850109183-8,Tienda Villa Rosa,Tienda de barrio,Cartagena,2,5,Crédito 30 días,5000000,2024-06-13
+184,872106781-4,Tienda La Gran Vía,Tienda de barrio,Cartagena,2,5,Contado,0,2021-05-07
+185,843154200-5,Supermercado El Sol,Supermercado,Turbaco,2,4,Crédito 60 días,32000000,2019-06-25
+186,829021197-9,Supermercado Doña Ana,Supermercado,CARTAGENA,2,5,Crédito 30 días,52400000,2026-06-20
+187,861469859-3,Tienda El Sol,Tienda de barrio,Cartagena,2,5,Contado,0,2025-12-27
+188,894443883-8,Tienda El Vecino,Tienda de barrio,Cartagena,2,5,Crédito 30 días,4000000,2025-01-19
+189,892403963-0,Tienda El Prado,TIENDA,Cartagena,2,5,Contado,0,2019-05-13
+190,817731462-3,Minimercado Brisas del Mar,Minimercado,Arjona,2,6,Contado,0,2017-02-13
+191,812070007-3,Supermercado La Fe,Supermercado,Arjona,2,6,Crédito 60 días,40100000,2016-06-08
+192,809985047-4,Tienda La Popular,Tienda de barrio,Cartagena,2,6,Crédito 30 días,3700000,2022-12-11
+193,862051014-3,Droguería Los Almendros,Droguería,Turbaco,2,6,Contado,0,2023-10-10
+194,880422776-9,Tienda San José,Tienda de barrio,Cartagena,2,5,Contado,0,2023-09-11
+195,864759097-5,Tienda Brisas del Mar,Tienda de barrio,Cartagena,2,6,Crédito 30 días,5900000,2025-05-30
+196,887607693-8,Supermercado Doña Ana,Supermercado,Turbaco,2,4,Crédito 60 días,73800000,2025-07-05
+197,864728934-2,Tienda Doña Ana,Tienda de barrio,Turbaco,2,4,Crédito 30 días,3900000,2025-05-26
+198,857640303-6,Tienda Los Almendros,Tienda de barrio,Arjona,2,6,Crédito 30 días,3000000,2025-01-04
+199,892704281-5,Minimercado Santa Lucía,Minimercado,Cartagena,2,6,Crédito 30 días,15700000,2024-09-14
+200,840875162-3,Minimercado La Popular,Minimercado,Cartagena,2,6,Crédito 30 días,14700000,2019-09-18
+201,900850857-7,Tienda Santa Lucía,Tienda de barrio,Cartagena,2,5,Contado,0,2016-08-22
+202,870523642-9,Tienda El Sol,Tienda de barrio,Turbaco,2,4,Contado,0,2023-01-05
+203,888421662-9,Supermercado Santa Lucía,Supermercado,Turbaco,2,6,Crédito 30 días,36600000,2015-12-25
+204,859415461-1,Minimercado El Paraíso,Minimercado,Cartagena,2,6,Crédito 60 días,12100000,2022-01-20
+205,839853542-8,Minimercado El Porvenir,Minimercado,El Carmen de Bolívar,2,4,Contado,0,2018-02-16
+206,890903124-3,Tienda San José Sur,Tienda de barrio,Cartagena,2,5,Contado,0,2023-06-27
+207,804829348-1,Minimercado Brisas del Mar,Minimercado,Turbaco,2,4,Crédito 30 días,6600000,2019-10-08
+208,833961372-3,Droguería San Martín,Droguería,El Carmen de Bolívar,2,6,Contado,0,2022-03-13
+209,811300159-5,Minimercado El Porvenir,Minimercado,Arjona,2,6,Crédito 30 días,6900000,2020-11-23
+210,899160990-0,Minimercado El Prado,Minimercado,CARTAGENA,2,4,Contado,0,2020-03-19
+211,855545914-2,Tienda El Triunfo,Tienda de barrio,Cartagena,2,5,Contado,0,2015-01-10
+212,879973940-2,Minimercado Brisas del Mar,Minimercado,Magangue,2,5,Contado,0,2023-10-07
+213,800380817-8,Droguería Doña Ana,Droguería,Arjona,2,4,Crédito 30 días,6900000,2017-08-01
+214,891462124-0,Droguería Doña Ana,Droguería,Magangué,2,5,Crédito 30 días,8700000,2020-07-17
+215,805404496-9,Tienda Brisas del Mar Norte,Tienda de barrio,Cartagena,2,6,Contado,0,2023-12-26
+216,828851543-4,Minimercado La Gran Vía,Minimercado,Turbaco,2,4,Crédito 30 días,6200000,2016-08-23
+217,840846955-7,Droguería La Bendición,Droguería,Magangué,2,5,Crédito 30 días,6000000,2022-07-20
+218,847691637-6,Minimercado La Primavera,Minimercado,Turbaco,2,4,Crédito 30 días,13100000,2026-01-28
+219,810889000-7,Tienda Los Almendros,Tienda de barrio,Cartagena,2,6,Contado,0,2021-03-05
+220,900118659-2,Tienda La Economía,Tienda de barrio,El Carmen de Bolívar,2,5,Contado,0,2021-05-26
+221,892010456-5,Tienda La Esquina,Tienda de barrio,Cartagena,2,4,Contado,0,2020-04-06
+222,857700698-5,Minimercado El Ahorro,Minimercado,Magangué,2,5,Crédito 30 días,13400000,2019-09-14
+223,897803734-4,Minimercado Mi Barrio,Minimercado,Cartagena,2,4,Crédito 30 días,11300000,2026-06-24
+224,844898703-6,Minimercado La Economía,Minimercado,Cartagena,2,6,Crédito 30 días,7400000,2017-12-26
+225,882796473-6,Tienda Las Palmas,Tienda de barrio,Turbaco,2,5,Contado,0,2022-03-23
+226,875686952-3,Tienda Doña Ana,Tienda de barrio,Cartagena de Indias,2,5,Contado,0,2026-09-16
+227,870233683-3,Minimercado Brisas del Mar,Minimercado,Cartagena,2,5,Crédito 30 días,14700000,2020-08-07
+228,901579657-2,Tienda Doña Ana No. 2,Tienda de barrio,Cartagena,2,4,Crédito 30 días,2300000,2015-04-18
+229,885403004-0,Tienda San Martín,Tienda de barrio,Cartagena,2,4,Contado,0,2018-09-22
+230,893463367-5,Supermercado Brisas del Mar,Supermercado,Cartagena,2,6,Crédito 60 días,48400000,2018-10-02
+231,853285795-9,Minimercado El Triunfo,Minimercado,Arjona,2,6,Crédito 30 días,15900000,2024-05-31
+232,852923760-8,Tienda El Prado del Centro,Tienda de barrio,Cartagena,2,6,Contado,0,2019-02-11
+233,842735293-3,Droguería La Popular,Droguería,Cartagena,2,6,Contado,0,2020-08-16
+234,874515580-6,Tienda Don Pepe,Tienda de barrio,Turbaco,2,6,Crédito 30 días,2800000,2020-09-15
+235,877850653-8,Tienda El Vecino del Centro,Tienda de barrio,Cartagena,2,6,Contado,0,2018-12-08
+236,821664353-9,Minimercado La Victoria,Minimercado,Cartagena,2,5,Crédito 30 días,6200000,2026-08-06
+237,821181466-6,Minimercado Brisas del Mar,Minimercado,El Carmen de Bolívar,2,6,Contado,0,2023-10-13
+238,862932287-4,Supermercado Santa Lucía,Supermercado,CARTAGENA,2,4,Crédito 60 días,89100000,2021-12-13
+239,894501667-3,Tienda El Paraíso,Tienda de barrio,Cartagena,2,5,Contado,0,2023-03-23
+240,810657570-4,Supermercado La Gran Vía,Supermercado,Magangué,2,4,Crédito 60 días,34000000,2025-10-05
+241,844664123-4,Supermercado La Ceiba,Supermercado,Cartagena,2,4,Crédito 30 días,54000000,2018-05-27
+242,812775334-4,Tienda El Vecino,Tienda de barrio,El Carmen de Bolívar,2,4,Crédito 30 días,3500000,2020-03-23
+243,868023689-3,Droguería Los Almendros del Centro,Droguería,Turbaco,2,5,Contado,0,2025-01-04
+244,872885271-3,Minimercado El Vecino,Minimercado,Cartagena,2,5,Crédito 60 días,9900000,2026-04-16
+245,885391114-5,Minimercado La Economía No. 2,Minimercado,Cartagena,2,4,Crédito 30 días,16400000,2023-08-22
+246,802716459-1,Droguería Los Almendros Sur,Droguería,Turbaco,2,6,Contado,0,2020-09-12
+247,801400967-6,Supermercado La Floresta,Supermercado,Cartagena,2,6,Crédito 60 días,78400000,2021-03-11
+248,891186315-6,Tienda Don Pepe,Tienda de barrio,Magangué,2,4,Contado,0,2020-05-23
+249,847040013-8,Tienda Villa Rosa No. 2,Tienda de barrio,Magangué,2,5,Contado,0,2023-03-09
+250,810816469-0,Tienda Don Pepe,Tienda de barrio,Cartagena,2,6,Contado,0,2015-04-07
+251,843118931-5,Minimercado San Martín,Minimercado,Turbaco,2,4,Contado,0,2025-03-02
+252,861638606-7,Tienda La Victoria,Tienda de barrio,Cartagena,2,4,Contado,0,2019-03-19
+253,885931667-2,Tienda San Martín,Tienda de barrio,Turbaco,2,5,Crédito 30 días,3800000,2021-05-10
+254,895465640-6,Tienda El Sol Sur,Tienda de barrio,Cartagena,2,5,Crédito 30 días,2300000,2016-09-13
+255,854832542-8,Tienda El Progreso,Tienda de barrio,Arjona,2,5,Contado,0,2022-03-17
+256,856413316-9,Tienda San Martín del Centro,Tienda de barrio,Cartagena,2,6,Crédito 30 días,5800000,2017-07-27
+257,885938877-5,Tienda Brisas del Mar Express,Tienda de barrio,Cartagena,2,5,Contado,0,2020-05-18
+258,805760751-3,Droguería El Triunfo,Droguería,El Carmen de Bolívar,2,6,Contado,0,2022-02-11
+259,825148863-2,Tienda San Martín Central,Tienda de barrio,Cartagena,2,5,Crédito 30 días,4400000,2022-10-06
+260,884433475-7,Tienda La Victoria,Tienda de barrio,Arjona,2,5,Contado,0,2017-07-03
+261,834355329-6,Tienda El Porvenir,Tienda de barrio,Turbaco,2,4,Contado,0,2015-03-26
+262,847298117-1,Supermercado Don Pepe,Supermercado,El Carmen de Bolívar,2,6,Crédito 60 días,50800000,2018-09-26
+263,825927034-6,Tienda El Triunfo Sur,Tienda de barrio,Cartagena,2,5,Contado,0,2017-01-07
+264,895677952-0,Tienda La Floresta,Tienda de barrio,Cartagena,2,6,Contado,0,2024-09-07
+265,864668237-7,Tienda El Paraíso,Tienda de barrio,Magangué,2,5,Contado,0,2018-09-05
+266,894178197-9,Tienda Don Pepe Norte,Tienda de barrio,CARTAGENA,2,4,Crédito 30 días,4300000,2018-07-13
+267,900672650-8,Tienda El Porvenir No. 2,Tienda de barrio,Turbaco,2,6,Contado,0,2020-11-16
+268,880373024-0,Tienda La Floresta Express,Tienda de barrio,Cartagena,2,5,Crédito 30 días,2100000,2018-06-07
+269,840356813-8,Supermercado El Prado,Supermercado,Cartagena,2,5,Crédito 60 días,68100000,2016-11-01
+270,882618052-8,Droguería El Porvenir,Droguería,Turbaco,2,5,Crédito 30 días,3500000,2015-09-14
+271,809857942-8,Tienda El Sol,Tienda de barrio,Magangué,2,4,Contado,0,2016-03-27
+272,874588544-6,Tienda Don Pepe,Tienda de barrio,Arjona,2,6,Contado,0,2022-02-18
+273,858721417-7,Droguería Las Palmas,Droguería,Turbaco,2,4,Crédito 30 días,4600000,2023-04-01
+274,859802964-3,Tienda La Gran Vía,Tienda de barrio,Turbaco,2,5,Crédito 30 días,4300000,2020-09-12
+275,896183853-8,Tienda Los Almendros Norte,Tienda de barrio,Arjona,2,4,Contado,0,2016-06-04
+276,844243161-6,Tienda La Primavera,Tienda de barrio,Cartagena,2,5,Contado,0,2022-11-05
+277,855510636-5,Droguería El Vecino,Droguería,Cartagena,2,4,Contado,0,2022-09-16
+278,850458111-4,Tienda La Esquina,Tienda de barrio,Arjona,2,6,Crédito 30 días,3200000,2015-12-04
+279,820727159-0,Tienda La Fe,Tienda de barrio,El Carmen de Bolívar,2,6,Contado,0,2019-09-26
+280,846597275-0,Minimercado Mi Barrio Sur,Minimercado,Cartagena,2,6,Contado,0,2018-08-12
+281,866248190-9,Minimercado El Paraíso Sur,Minimercado,Cartagena,2,5,Crédito 30 días,11900000,2025-04-30
+282,893186127-7,Tienda San José,Tienda de barrio,Arjona,2,6,Contado,0,2016-12-10
+283,802748708-3,Tienda El Ahorro,Tienda de barrio,Cartagena,2,6,Contado,0,2017-11-03
+284,853881463-6,Minimercado El Sol,Minimercado,Cartagena,2,6,Crédito 30 días,14100000,2026-01-07
+285,818155604-0,Tienda Villa Rosa Norte,Tienda de barrio,Cartagena,2,6,Contado,0,2015-08-12
+286,862797285-6,Tienda Don Pepe Central,Tienda de barrio,Turbaco,2,4,Contado,0,2016-02-04
+287,884466847-1,Minimercado Don Pepe,Minimercado,Turbaco,2,4,Crédito 30 días,11100000,2015-09-15
+288,874258779-4,Tienda La Floresta,Tienda de barrio,Turbaco,2,5,Contado,0,2021-01-25
+289,857578557-7,Minimercado Doña Ana,Minimercado,Cartagena,2,4,Contado,0,2016-07-21
+290,867105574-4,Minimercado El Progreso,Minimercado,Arjona,2,5,Contado,0,2017-10-19
+291,810639002-9,Tienda La Popular,Tienda de barrio,Magangué,2,5,Contado,0,2017-01-24
+292,825386991-1,Supermercado La Esquina,Supermercado,El Carmen de Bolívar,2,6,Crédito 60 días,89900000,2016-10-24
+293,828406197-1,Supermercado El Progreso,Supermercado,Cartagena,2,4,Crédito 60 días,71200000,2025-02-28
+294,831385053-7,Droguería La Bendición,Droguería,Cartagena,2,5,Crédito 30 días,9000000,2026-03-20
+295,805627198-6,Tienda El Paraíso Sur,Tienda de barrio,Magangué,2,4,Contado,0,2023-12-08
+296,868247349-6,Tienda Brisas del Mar,Tienda de barrio,Arjona,2,4,Crédito 30 días,2200000,2025-01-29
+297,871333691-4,Supermercado La Floresta,Supermercado,El Carmen de Bolívar,2,5,Crédito 60 días,40400000,2019-10-10
+298,810843620-7,Minimercado La Floresta,Minimercado,Turbaco,2,5,Crédito 30 días,15200000,2019-01-16
+299,879984655-5,Tienda La Victoria Central,Tienda de barrio,Cartagena,2,6,Crédito 30 días,2500000,2019-04-04
+300,872185481-6,Tienda Santa Lucía Express,Tienda de barrio,Cartagena,2,5,Contado,0,2026-01-22
+301,851115797-1,Tienda El Porvenir,Tienda de barrio,Cartagena,2,5,Crédito 30 días,4600000,2015-03-01
+302,829860073-9,Minimercado Doña Ana No. 2,Minimercado,Cartagena,2,6,Crédito 30 días,13600000,2016-03-12
+303,831858159-1,Tienda Brisas del Mar,Tienda de barrio,El Carmen de Bolívar,2,6,Crédito 30 días,5200000,2025-07-26
+304,829782456-6,Minimercado La Victoria,Minimercado,Arjona,2,4,Crédito 60 días,11200000,2026-06-06
+305,833511358-2,Tienda San José,Tienda de barrio,El Carmen de Bolívar,2,6,Contado,0,2016-11-24
+306,836576661-3,Droguería Las Palmas,Droguería,Arjona,2,4,Crédito 30 días,6600000,2022-01-08
+307,826565842-0,Tienda El Sol Norte,Tienda de barrio,Magangué,2,6,Crédito 30 días,3600000,2026-01-22
+308,824170683-3,Supermercado La Economía,Supermercado,Magangué,2,5,Crédito 60 días,83400000,2025-09-13
+309,900385565-0,Tienda La Victoria,Tienda de barrio,Magangué,2,5,Crédito 30 días,2500000,2023-04-24
+310,819416018-3,Supermercado La Victoria,Supermercado,Cartagena,2,5,Crédito 60 días,66200000,2025-06-15
+311,811649893-1,Tienda El Porvenir,Tienda de barrio,Magangué,2,4,Contado,0,2020-05-13
+312,883897179-2,Tienda Mi Barrio,Tienda de barrio,Cartagena,2,6,Contado,0,2018-01-14
+313,877082740-4,Tienda Mi Barrio,Tienda de barrio,Turbaco,2,5,Crédito 30 días,5800000,2019-06-24
+314,826915193-2,Tienda El Sol,Tienda de barrio,El Carmen de Bolívar,2,4,Contado,0,2018-09-21
+315,851480268-6,Tienda La Popular,Tienda de barrio,Arjona,2,5,Crédito 30 días,5900000,2018-04-08
+316,820720095-9,Tienda La Economía,Tienda de barrio,Cartagena,2,4,Crédito 30 días,4300000,2015-09-17
+317,891499436-1,Tienda El Paraíso,Tienda de barrio,Arjona,2,5,Contado,0,2020-07-03
+318,866549100-5,Minimercado El Porvenir,Minimercado,Cartagena de Indias,2,5,Crédito 30 días,14500000,2025-05-10
+319,836516195-4,Tienda El Vecino Norte,Tienda de barrio,Cartagena,2,4,Crédito 30 días,4100000,2020-07-01
+320,834839697-7,Minimercado Villa Rosa,Minimercado,Magangue,2,5,Crédito 30 días,7100000,2018-10-08
+321,878809974-1,Tienda Las Palmas Norte,Tienda de barrio,Turbaco,2,6,Crédito 30 días,4000000,2023-10-14
+322,806621277-1,Droguería Brisas del Mar,Droguería,Cartagena de Indias,2,5,Crédito 30 días,6800000,2015-11-07
+323,820801835-3,Tienda El Paraíso del Centro,Tienda de barrio,Cartagena,2,4,Contado,0,2019-02-01
+324,872479678-0,Minimercado La Economía,Minimercado,Turbaco,2,6,Crédito 30 días,16600000,2020-09-04
+325,827209096-9,Minimercado La Fe,Minimercado,Arjona,2,6,Contado,0,2025-07-09
+326,894435549-2,Tienda La Gran Vía del Centro,Tienda de barrio,Cartagena,2,5,Crédito 30 días,2500000,2019-08-04
+327,863497669-8,Minimercado El Ahorro,Minimercado,Cartagena,2,6,Contado,0,2021-02-09
+328,833122751-2,Minimercado La Primavera,Minimercado,Cartagena,2,4,Crédito 30 días,9700000,2020-10-24
+329,814556414-8,Droguería El Vecino Sur,Droguería,Cartagena,2,4,Crédito 30 días,5800000,2021-08-23
+330,855992859-5,Droguería La Popular,Droguería,El Carmen de Bolívar,2,4,Crédito 30 días,5800000,2023-07-15
+331,831745138-0,Minimercado San José,Minimercado,Santa Marta,3,8,Crédito 30 días,13600000,2015-09-07
+332,883360154-6,Tienda El Bosque,Tienda de barrio,El Banco,3,8,Contado,0,2023-12-14
+333,815098989-2,Tienda El Bosque,Tienda de barrio,Santa Marta,3,7,Contado,0,2024-09-30
+334,848206296-3,Tienda La Economía,Tienda de barrio,Zona Bananera,3,7,Contado,0,2025-06-12
+335,829956939-3,Tienda Villa Rosa,Tienda de barrio,Santa Marta,3,8,Contado,0,2021-03-17
+336,890428924-7,Tienda La Economía,,Santa Marta,3,8,Crédito 30 días,2300000,2018-03-07
+337,823080056-2,Minimercado La Bendición,Minimercado,Santa Marta,3,8,Crédito 30 días,6200000,2015-05-24
+338,809912938-0,Tienda El Prado,Tienda de barrio,Santa Marta,3,7,Contado,0,2019-09-09
+339,848655112-8,Tienda San José,Tienda de barrio,santa marta,3,8,Contado,0,2015-04-07
+340,864791225-1,Droguería El Paraíso,Droguería,Santa Marta,3,8,Contado,0,2023-03-18
+341,850639807-8,Tienda La Floresta,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,3100000,2019-10-25
+342,821665186-7,Minimercado El Sol,Minimercado,Santa Marta,3,7,Crédito 30 días,16100000,2015-10-14
+343,852708589-1,Tienda Los Almendros,Tienda de barrio,El Banco,3,8,Crédito 30 días,4900000,2022-02-12
+344,864291059-5,Minimercado La Floresta,Minimercado,Zona Bananera,3,7,Contado,0,2026-03-03
+345,852062836-8,Tienda El Porvenir,Tienda de barrio,Fundación,3,7,Crédito 30 días,5800000,2019-06-17
+346,895944288-2,Tienda La Bendición,Tienda de barrio,Fundación,3,7,Contado,0,2021-03-19
+347,881378013-8,Droguería El Porvenir,Droguería,Santa Marta,3,7,Crédito 30 días,5000000,2015-07-06
+348,863151034-7,Minimercado La Economía,Minimercado,El Banco,3,7,Crédito 30 días,16100000,2017-06-13
+349,815635005-3,Tienda La Gran Vía,Tienda de barrio,Sta Marta,3,7,Contado,0,2018-12-25
+350,901805581-7,Tienda Las Palmas,Tienda de barrio,Zona Bananera,3,7,Contado,0,2020-08-27
+351,818010100-8,Minimercado La Economía,Minimercado,Sta Marta,3,7,Crédito 30 días,10100000,2021-01-01
+352,825337331-7,Tienda El Bosque Norte,Tienda de barrio,El Banco,3,7,Contado,0,2022-08-15
+353,866754225-3,Tienda La Esquina,Tienda de barrio,Santa Marta,3,8,Contado,0,2023-12-14
+354,882478013-4,Droguería El Vecino,Droguería,Fundación,3,7,Contado,0,2016-03-26
+355,806113780-9,Tienda Don Pepe,Tienda de barrio,Santa Marta,3,8,Contado,0,2021-12-20
+356,879628109-8,Tienda La Gran Vía del Centro,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,5400000,2017-12-21
+357,812705665-9,Minimercado San Martín,Minimercado,El Banco,3,7,Contado,0,2017-09-05
+358,829741172-1,Tienda El Triunfo,Tienda de barrio,Ciénaga,3,8,Crédito 30 días,5200000,2025-01-12
+359,837072178-7,Tienda La Fe,Tienda de barrio,Cienaga,3,8,Contado,0,2017-12-27
+360,847437608-3,Tienda Villa Rosa,Tienda de barrio,Fundación,3,8,Contado,0,2023-07-03
+361,806855734-5,Droguería El Paraíso,Droguería,Ciénaga,3,7,Contado,0,2021-11-21
+362,896485571-0,Tienda La Ceiba,Tienda de barrio,Fundación,3,7,Crédito 30 días,4700000,2024-04-01
+363,816123390-4,Tienda La Esquina Norte,Tienda de barrio,Santa Marta,3,8,Contado,0,2021-07-12
+364,858097672-5,Tienda Doña Ana,Tienda de barrio,Fundación,3,7,Contado,0,2017-05-16
+365,801953514-8,Tienda El Ahorro,Tienda de barrio,Zona Bananera,3,7,Contado,0,2024-06-17
+366,858628051-2,Supermercado El Bosque,Supermercado,Ciénaga,3,8,Crédito 60 días,70500000,2022-09-13
+367,856856486-3,Droguería El Triunfo,Droguería,Santa Marta,3,7,Crédito 30 días,6600000,2015-06-06
+368,827211002-7,Minimercado La Victoria,Minimercado,Santa Marta,3,7,Contado,0,2017-01-23
+369,879747577-7,Minimercado El Paraíso,Minimercado,Santa Marta,3,8,Crédito 30 días,16100000,2021-08-19
+370,879638503-3,Tienda La Popular,Tienda de barrio,Zona Bananera,3,8,Contado,0,2021-06-11
+371,898773658-0,Minimercado Don Pepe,Mini mercado,Santa Marta,3,7,Contado,0,2015-03-01
+372,897161214-7,Tienda La Bendición,Tienda de barrio,El Banco,3,7,Crédito 30 días,2900000,2020-08-27
+373,875347223-8,Tienda San Martín,Tienda de barrio,Santa Marta,3,7,Contado,0,2021-02-05
+374,866283036-7,Tienda Don Pepe,Tienda de barrio,Fundación,3,7,Crédito 30 días,5700000,2018-01-09
+375,858692167-7,Droguería El Vecino,Droguería,El Banco,3,7,Crédito 30 días,5300000,2026-05-13
+376,840192058-3,Droguería Mi Barrio,Droguería,Ciénaga,3,8,Contado,0,2023-06-22
+377,840720231-8,Tienda El Paraíso,Tienda de barrio,Fundación,3,7,Crédito 30 días,2500000,2025-07-02
+378,826299869-0,Minimercado El Ahorro,Minimercado,Fundación,3,7,Crédito 30 días,10500000,2015-08-15
+379,839003339-3,Tienda La Ceiba,Tienda de barrio,santa marta,3,7,Contado,0,2022-10-05
+380,896735394-8,Tienda Los Almendros,Tienda de barrio,Zona Bananera,3,7,Contado,0,2022-02-09
+381,811644403-4,Minimercado La Gran Vía,Minimercado,Ciénaga,3,8,Crédito 30 días,14500000,2026-08-12
+382,807104110-9,Tienda La 30,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,5800000,2017-09-24
+383,873720641-1,Tienda El Progreso,Tienda de barrio,Santa Marta,3,7,Contado,0,2025-05-29
+384,853580581-5,Tienda La Primavera,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,2800000,2019-08-21
+385,851982344-8,Tienda La Floresta del Centro,Tienda de barrio,Santa Marta,3,8,Contado,0,2026-08-17
+386,829583313-3,Droguería El Vecino,Droguería,Zona Bananera,3,8,Contado,0,2024-03-21
+387,900796856-0,Tienda Santa Lucía,Tienda de barrio,santa marta,3,7,Contado,0,2018-03-10
+388,890708860-2,Tienda El Prado Central,TIENDA,Santa Marta,3,7,Contado,0,2018-11-08
+389,890038720-1,Tienda El Sol,Tienda de barrio,El Banco,3,8,Contado,0,2020-04-11
+390,886178114-6,Tienda San José,Tienda de barrio,Fundación,3,7,Contado,0,2021-05-14
+391,819675555-5,Droguería El Ahorro,Droguería,Ciénaga,3,8,Contado,0,2015-09-15
+392,805036386-5,Tienda El Ahorro,Tienda de barrio,Fundación,3,8,Crédito 30 días,3800000,2026-05-07
+393,870573439-6,Minimercado El Paraíso,Minimercado,Zona Bananera,3,7,Contado,0,2025-09-03
+394,832975065-6,Minimercado El Vecino,Minimercado,Santa Marta,3,7,Crédito 30 días,9900000,2019-01-02
+395,861624399-2,Minimercado La Victoria,Minimercado,Fundación,3,7,Crédito 30 días,13200000,2023-06-18
+396,869761643-1,Supermercado San Martín,Supermercado,Zona Bananera,3,8,Crédito 60 días,35300000,2016-03-08
+397,840100378-1,Tienda Doña Ana,Tienda de barrio,Ciénaga,3,7,Crédito 30 días,2900000,2025-12-01
+398,853139943-2,Tienda La Victoria,Tienda de barrio,Zona Bananera,3,8,Contado,0,2024-08-17
+399,853866932-5,Minimercado Doña Ana,Minimercado,Fundación,3,8,Contado,0,2024-12-04
+400,847920564-9,Minimercado La Bendición Central,Minimercado,Santa Marta,3,8,Contado,0,2023-11-24
+401,897711387-4,Tienda La Fe,Tienda de barrio,Fundación,3,7,Contado,0,2018-04-12
+402,812728947-5,Tienda El Progreso Express,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,2400000,2026-05-20
+403,864566360-8,Minimercado La 30,Minimercado,Sta Marta,3,8,Contado,0,2016-05-25
+404,885497740-8,Tienda Doña Ana,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,5900000,2015-08-11
+405,843661185-0,Minimercado La Primavera,Minimercado,Ciénaga,3,8,Crédito 30 días,10900000,2022-11-05
+406,894241767-9,Minimercado El Ahorro,Minimercado,Santa Marta,3,8,Crédito 30 días,13400000,2022-11-17
+407,828435605-4,Tienda La 30,Tienda de barrio,El Banco,3,8,Crédito 30 días,5000000,2018-06-09
+408,888085918-5,Tienda La Bendición,Tienda de barrio,Ciénaga,3,7,Contado,0,2015-04-15
+409,851587162-9,Supermercado La Ceiba,Supermercado,El Banco,3,7,Crédito 60 días,86800000,2025-02-13
+410,855294394-3,Tienda San Martín del Centro,Tienda de barrio,Santa Marta,3,8,Contado,0,2017-11-10
+411,830846363-3,Minimercado San Martín,Minimercado,Ciénaga,3,7,Crédito 30 días,9700000,2016-04-25
+412,890706332-1,Tienda La 30,Tienda de barrio,Fundación,3,7,Crédito 30 días,3200000,2020-06-09
+413,851984020-2,Tienda El Ahorro,Tienda de barrio,Ciénaga,3,7,Crédito 30 días,2900000,2021-07-22
+414,835046157-9,Minimercado Los Almendros,Minimercado,Santa Marta,3,7,Crédito 30 días,6200000,2018-02-11
+415,827125042-8,Tienda La Popular,Tienda de barrio,Fundación,3,7,Contado,0,2026-08-25
+416,844658566-2,Tienda El Vecino,Tienda de barrio,Sta Marta,3,7,Crédito 30 días,4900000,2017-06-22
+417,897704557-1,Minimercado La Esquina,Minimercado,El Banco,3,7,Crédito 30 días,14300000,2021-09-04
+418,847348905-1,Tienda Don Pepe,Tienda de barrio,Ciénaga,3,8,Contado,0,2018-09-10
+419,870535715-9,Tienda El Bosque,Tienda de barrio,Fundación,3,7,Contado,0,2017-02-24
+420,808587945-8,Supermercado Santa Lucía,Supermercado,Santa Marta,3,7,Crédito 60 días,67900000,2021-04-17
+421,807943501-3,Droguería Don Pepe,Droguería,El Banco,3,7,Contado,0,2015-09-27
+422,821695205-1,Tienda La Esquina Express,Tienda de barrio,Santa Marta,3,8,Contado,0,2018-05-23
+423,862454261-7,Minimercado La Ceiba,Minimercado,Santa Marta,3,7,Contado,0,2017-05-20
+424,874655801-2,Tienda San José No. 2,Tienda de barrio,Santa Marta,3,8,Crédito 30 días,2200000,2016-02-27
+425,884494699-6,Tienda El Vecino,Tienda de barrio,Ciénaga,3,7,Contado,0,2022-05-10
+426,898002692-6,Tienda Brisas del Mar,Tienda de barrio,Sta Marta,3,7,Crédito 30 días,2500000,2024-05-20
+427,869341551-4,Minimercado El Triunfo,Minimercado,El Banco,3,8,Crédito 60 días,8700000,2017-12-09
+428,803380992-7,Tienda La Esquina,Tienda de barrio,Ciénaga,3,7,Crédito 30 días,3800000,2023-12-03
+429,848499765-5,Minimercado El Progreso,,Sta Marta,3,7,Crédito 60 días,11600000,2016-05-06
+430,896087978-4,Tienda Villa Rosa Express,Tienda de barrio,Fundación,3,7,Crédito 30 días,5500000,2016-02-05
+431,871558131-0,Supermercado El Prado,Supermercado,Montería,4,9,Crédito 30 días,57000000,2020-02-02
+432,879812682-1,Droguería Los Almendros,Droguería,Lorica,4,10,Contado,0,2020-02-14
+433,812651923-7,Supermercado Doña Ana,Supermercado,Sahagún,4,10,Crédito 30 días,86900000,2023-04-02
+434,878670317-5,Tienda La Bendición,Tienda de barrio,Montería,4,10,Crédito 30 días,2500000,2018-07-18
+435,855953413-3,Tienda Villa Rosa,Tienda de barrio,Lorica,4,10,Crédito 30 días,3600000,2022-10-15
+436,865346291-1,Minimercado Brisas del Mar,Minimercado,Montelíbano,4,9,Crédito 30 días,17200000,2023-11-04
+437,818379306-1,Tienda El Bosque,Tienda de barrio,Montería,4,10,Contado,0,2025-02-02
+438,893508008-7,Tienda Santa Lucía,Tienda de barrio,Cereté,4,9,Contado,0,2018-09-21
+439,809249751-6,Tienda La Floresta,Tienda de barrio,Cereté,4,9,Contado,0,2019-11-13
+440,882510794-2,Minimercado Don Pepe,Minimercado,Montelíbano,4,9,Contado,0,2025-03-12
+441,813456828-5,Tienda La Fe,Tienda de barrio,Cereté,4,10,Crédito 30 días,3100000,2020-10-05
+442,833519253-4,Minimercado La Popular,Minimercado,Sahagún,4,9,Contado,0,2019-08-09
+443,812811208-9,Tienda Mi Barrio,Tienda de barrio,Sahagún,4,9,Contado,0,2021-01-19
+444,842089647-0,Tienda Santa Lucía del Centro,Tienda de barrio,Cereté,4,9,Crédito 30 días,3200000,2017-07-20
+445,843662845-5,Tienda El Bosque,Tienda de barrio,Montelíbano,4,10,Contado,0,2017-10-08
+446,805669465-1,Droguería El Ahorro,Droguería,Monteria,4,9,Crédito 30 días,5500000,2016-08-23
+447,811680508-3,Minimercado La Floresta,Minimercado,Montería,4,9,Crédito 30 días,14300000,2015-10-10
+448,815195158-2,Tienda Mi Barrio,Tienda de barrio,Montería,4,10,Crédito 30 días,2900000,2016-09-25
+449,808444477-8,Tienda La Ceiba,Tienda de barrio,Cereté,4,9,Contado,0,2015-08-26
+450,880267692-5,Tienda Mi Barrio,Tienda de barrio,Montelíbano,4,9,Contado,0,2020-12-19
+451,821790248-8,Minimercado Doña Ana,Minimercado,Montería,4,9,Crédito 30 días,6600000,2018-12-11
+452,882995371-5,Tienda Brisas del Mar,Tienda de barrio,Montería,4,10,Contado,0,2019-04-18
+453,820314064-0,Tienda Brisas del Mar,Tienda de barrio,Cereté,4,10,Crédito 30 días,4400000,2021-11-12
+454,812567433-7,Minimercado Santa Lucía,Minimercado,Cereté,4,9,Crédito 60 días,16000000,2015-05-05
+455,863632702-4,Tienda Las Palmas,Tienda de barrio,Lorica,4,9,Contado,0,2015-08-03
+456,822458486-5,Tienda El Progreso,Tienda de barrio,Lorica,4,10,Contado,0,2018-06-20
+457,844514657-4,Supermercado La Popular,Supermercado,Cereté,4,10,Crédito 60 días,44200000,2023-07-20
+458,887490795-9,Tienda Mi Barrio,Tienda de barrio,Lorica,4,10,Crédito 30 días,5000000,2019-09-12
+459,804264631-0,Supermercado Los Almendros,Supermercado,Lorica,4,9,Crédito 30 días,62300000,2022-06-08
+460,816883372-9,Minimercado El Porvenir,Minimercado,Sahagún,4,10,Crédito 60 días,14100000,2026-03-28
+461,852436142-8,Tienda El Ahorro,,Montería,4,9,Crédito 30 días,3300000,2024-11-19
+462,882764366-6,Minimercado La Economía,Minimercado,Lorica,4,9,Contado,0,2016-06-01
+463,830751492-2,Tienda El Prado,Tienda de barrio,Lorica,4,9,Contado,0,2020-08-03
+464,814112692-5,Tienda La Bendición Sur,Tienda de barrio,Montería,4,10,Contado,0,2017-02-16
+465,884362984-9,Tienda La Popular,Tienda de barrio,Cereté,4,9,Crédito 30 días,4500000,2025-01-14
+466,803610300-3,Tienda La 30,Tienda de barrio,Montería,4,9,Crédito 30 días,5100000,2025-08-28
+467,862407147-7,Tienda La Ceiba Norte,Tienda de barrio,Cereté,4,10,Contado,0,2016-10-27
+468,855834038-4,Droguería Doña Ana,Droguería,Cereté,4,10,Crédito 30 días,7600000,2022-09-20
+469,841691458-6,Minimercado La Esquina,Mini mercado,Montelíbano,4,9,Crédito 30 días,13900000,2019-04-01
+470,896057972-7,Minimercado La Popular,Minimercado,Lorica,4,9,Contado,0,2025-02-02
+471,809565332-5,Tienda La Economía,Tienda de barrio,Lorica,4,9,Contado,0,2023-03-12
+472,812571006-9,Tienda La Ceiba del Centro,Tienda de barrio,Cereté,4,9,Contado,0,2026-07-06
+473,809945791-0,Tienda El Progreso,Tienda de barrio,Monteria,4,10,Contado,0,2016-09-27
+474,888438694-0,Tienda Doña Ana,Tienda de barrio,Montería,4,10,Crédito 30 días,5700000,2017-03-22
+475,899983822-3,Supermercado El Ahorro,Supermercado,Cereté,4,10,Crédito 60 días,59500000,2018-08-06
+476,802778745-7,Minimercado San Martín,Minimercado,Sahagún,4,9,Crédito 30 días,15500000,2026-08-23
+477,814775717-2,Tienda Don Pepe,Tienda de barrio,Cereté,4,9,Contado,0,2019-11-04
+478,820786183-3,Tienda La Fe No. 2,Tienda de barrio,Cereté,4,10,Contado,0,2020-07-26
+479,884082213-3,Droguería Brisas del Mar,Droguería,Montería,4,9,Crédito 30 días,3800000,2022-06-09
+480,851977267-3,Minimercado Doña Ana,Minimercado,Montelíbano,4,9,Contado,0,2015-09-23
+481,885401512-5,Tienda Santa Lucía,Tienda de barrio,Montería,4,9,Crédito 30 días,3700000,2017-06-08
+482,900990660-6,Tienda El Triunfo,Tienda de barrio,Montería,4,9,Contado,0,2025-12-30
+483,872909087-5,Supermercado El Prado,Supermercado,Sahagún,4,9,Crédito 30 días,87700000,2016-01-04
+484,858052715-4,Tienda Las Palmas,Tienda de barrio,Montelíbano,4,9,Crédito 30 días,5200000,2025-02-11
+485,819072858-2,Supermercado Brisas del Mar,Supermercado,Montería,4,9,Crédito 60 días,84600000,2024-12-17
+486,831181676-5,Supermercado Villa Rosa,Supermercado,Cereté,4,10,Crédito 60 días,82000000,2020-11-10
+487,850109527-1,Minimercado La 30,Minimercado,Montería,4,10,Contado,0,2022-01-27
+488,876122766-1,Tienda La Esquina,Tienda de barrio,Cereté,4,9,Crédito 30 días,2400000,2017-02-11
+489,827697013-3,Tienda El Paraíso,Tienda de barrio,Montería,4,10,Contado,0,2023-06-08
+490,892706864-3,Tienda Los Almendros,Tienda de barrio,Montería,4,9,Contado,0,2020-08-10
+491,846254352-1,Tienda Brisas del Mar Sur,Tienda de barrio,Montería,4,9,Crédito 30 días,5500000,2020-11-10
+492,818845598-8,Tienda El Porvenir,Tienda de barrio,Cereté,4,9,Contado,0,2019-01-08
+493,838739688-8,Minimercado Doña Ana Express,Minimercado,Montería,4,10,Crédito 30 días,15800000,2026-07-31
+494,833112388-4,Tienda La 30 Central,Tienda de barrio,Montería,4,9,Contado,0,2019-01-24
+495,809616030-0,Tienda San Martín,Tienda de barrio,Sahagún,4,10,Crédito 30 días,2600000,2019-02-09
+496,895605608-6,Minimercado La Economía,Minimercado,Montería,4,10,Crédito 30 días,13600000,2026-02-06
+497,844929083-3,Supermercado La 30,Supermercado,Monteria,4,10,Crédito 30 días,71800000,2020-07-07
+498,851413350-3,Minimercado San José,Minimercado,Lorica,4,9,Crédito 30 días,11700000,2023-12-24
+499,895152150-1,Supermercado El Vecino,Supermercado,Lorica,4,9,Crédito 30 días,73700000,2018-11-27
+500,854503688-1,Tienda El Porvenir,Tienda de barrio,Montería,4,10,Contado,0,2022-11-12
+501,878616624-5,Droguería El Ahorro,Droguería,Lorica,4,9,Contado,0,2016-06-18
+502,809417917-1,Droguería La Ceiba,Droguería,Lorica,4,10,Crédito 30 días,6600000,2026-06-11
+503,895741895-1,Tienda San Martín,Tienda de barrio,Cereté,4,9,Crédito 30 días,5200000,2022-11-18
+504,878191281-3,Tienda La Bendición Express,Tienda de barrio,Montería,4,9,Contado,0,2020-12-05
+505,864354126-2,Tienda San Martín Norte,Tienda de barrio,Sahagún,4,10,Contado,0,2018-11-10
+506,829267257-1,Tienda La Ceiba,Tienda de barrio,Montelíbano,4,10,Crédito 30 días,3800000,2018-10-21
+507,830400957-4,Minimercado La Esquina,Minimercado,Montería,4,10,Crédito 30 días,7900000,2019-04-18
+508,854369064-9,Minimercado Mi Barrio,Minimercado,Cereté,4,10,Crédito 60 días,11600000,2026-06-16
+509,866526561-9,Tienda La Economía Express,Tienda de barrio,Lorica,4,10,Crédito 30 días,4300000,2019-11-26
+510,816779735-7,Minimercado El Triunfo,Minimercado,Sahagún,4,10,Crédito 30 días,9600000,2018-10-15
+511,856597545-1,Tienda El Prado,Tienda de barrio,Montelíbano,4,9,Contado,0,2018-01-26
+512,810879034-6,Minimercado San Martín,Minimercado,Montería,4,9,Contado,0,2019-10-03
+513,849919850-8,Minimercado El Porvenir,Minimercado,Montería,4,10,Crédito 60 días,6900000,2025-09-30
+514,815694380-0,Tienda Doña Ana Central,Tienda de barrio,Montería,4,9,Contado,0,2024-10-27
+515,802222356-5,Droguería La Primavera,Droguería,Montería,4,9,Contado,0,2025-08-20
+516,850414695-5,Minimercado El Paraíso,Minimercado,Montería,4,10,Crédito 60 días,14500000,2021-10-20
+517,853554090-0,Tienda San José,Tienda de barrio,Montería,4,9,Contado,0,2020-01-26
+518,848121787-7,Tienda El Triunfo,Tienda de barrio,Sahagún,4,10,Contado,0,2016-04-27
+519,854594462-2,Minimercado El Porvenir Express,Minimercado,Montería,4,9,Crédito 60 días,17200000,2022-09-06
+520,815806104-7,Tienda La Economía,Tienda de barrio,Montería,4,10,Crédito 30 días,2200000,2026-03-27
+521,846646488-3,Tienda La Floresta,Tienda de barrio,Montería,4,10,Contado,0,2020-04-02
+522,827889128-6,Tienda La Victoria,,Montería,4,9,Contado,0,2015-10-24
+523,897231792-3,Tienda La Gran Vía,Tienda de barrio,Montería,4,10,Crédito 30 días,3900000,2018-10-10
+524,886804517-9,Tienda San Martín,Tienda de barrio,Montelíbano,4,10,Contado,0,2022-11-03
+525,813133877-7,Tienda La Floresta Sur,Tienda de barrio,Cereté,4,10,Contado,0,2017-11-21
+526,859059111-1,Tienda La Bendición,,Montelíbano,4,10,Contado,0,2018-08-15
+527,874770816-8,Tienda El Bosque Norte,Tienda de barrio,Montería,4,9,Contado,0,2020-05-02
+528,820311806-8,Tienda El Vecino,Tienda de barrio,Lorica,4,9,Contado,0,2015-09-11
+529,826295243-9,Minimercado El Sol,Minimercado,Lorica,4,10,Crédito 30 días,8200000,2025-02-11
+530,820452999-3,Minimercado El Progreso,Minimercado,Sahagún,4,9,Crédito 30 días,12700000,2019-12-26
+531,896983306-0,Droguería El Paraíso,Droguería,Corozal,5,12,Contado,0,2023-03-14
+532,881123427-3,Minimercado El Bosque,Minimercado,Sincelejo,5,12,Crédito 30 días,6900000,2025-07-09
+533,853062943-1,Tienda La Floresta,Tienda de barrio,Corozal,5,11,Crédito 30 días,5000000,2018-01-17
+534,843434761-5,Supermercado El Ahorro,Supermercado,Santiago de Tolú,5,11,Crédito 60 días,38700000,2018-07-08
+535,888483368-3,Tienda La Victoria,Tienda de barrio,Sincelejo,5,11,Crédito 30 días,4200000,2025-05-12
+536,842936906-1,Minimercado Doña Ana,Minimercado,Sampués,5,12,Crédito 30 días,9900000,2024-04-14
+537,872779128-1,Tienda La Gran Vía,Tienda de barrio,Corozal,5,11,Contado,0,2024-11-16
+538,884650106-5,Supermercado La Primavera,Supermercado,Sincelejo,5,12,Crédito 60 días,44500000,2021-02-19
+539,873834179-6,Tienda El Progreso,Tienda de barrio,Sincelejo,5,11,Contado,0,2026-05-06
+540,859372134-6,Minimercado La Primavera,Minimercado,Sampués,5,11,Contado,0,2024-05-23
+541,857053712-5,Tienda El Bosque,Tienda de barrio,Sincelejo,5,12,Crédito 30 días,3500000,2024-03-11
+542,861202478-8,Tienda Brisas del Mar,Tienda de barrio,Corozal,5,11,Crédito 30 días,3500000,2022-05-11
+543,878268879-2,Tienda La Economía,Tienda de barrio,Santiago de Tolú,5,11,Crédito 30 días,5300000,2019-04-10
+544,815911106-3,Minimercado La Gran Vía,Minimercado,Sincelejo,5,11,Crédito 30 días,12100000,2023-04-05
+545,898453093-7,Tienda La Gran Vía Norte,Tienda de barrio,Corozal,5,11,Contado,0,2018-11-15
+546,807432236-4,Tienda El Progreso Central,Tienda de barrio,Sincelejo,5,11,Crédito 30 días,2200000,2025-07-23
+547,841841474-4,Tienda San José,Tienda de barrio,Sampués,5,11,Contado,0,2021-06-25
+548,886012190-2,Supermercado El Porvenir,Supermercado,Sampués,5,11,Crédito 30 días,46600000,2021-07-24
+549,829867040-7,Tienda La Gran Vía,Tienda de barrio,San Marcos,5,12,Crédito 30 días,2100000,2025-08-31
+550,870093141-7,Minimercado San José,Minimercado,Santiago de Tolú,5,11,Contado,0,2019-09-04
+551,837554473-9,Tienda El Triunfo,Tienda de barrio,Sincelejo,5,11,Contado,0,2016-02-15
+552,813124237-3,Minimercado La Economía,Minimercado,San Marcos,5,11,Crédito 30 días,6200000,2023-12-12
+553,891987058-7,Supermercado La Esquina,Supermercado,Corozal,5,12,Crédito 60 días,33100000,2019-10-10
+554,838997791-1,Tienda La Fe,Tienda de barrio,Sincelejo,5,11,Contado,0,2023-02-25
+555,883746909-4,Tienda Los Almendros,Tienda de barrio,Sampués,5,11,Crédito 30 días,5700000,2026-02-27
+556,806664584-0,Tienda La Gran Vía,Tienda de barrio,Sampués,5,12,Contado,0,2015-10-26
+557,879644326-2,Tienda El Progreso Norte,Tienda de barrio,Sincelejo,5,11,Contado,0,2019-12-14
+558,804417919-1,Tienda La Primavera,Tienda de barrio,Corozal,5,12,Contado,0,2026-02-14
+559,810327070-1,Tienda El Triunfo,Tienda de barrio,Corozal,5,12,Contado,0,2023-12-05
+560,812959764-8,Tienda San José,Tienda de barrio,Sincelejo,5,12,Crédito 30 días,2600000,2025-08-21
+561,818251505-3,Tienda El Bosque del Centro,Tienda de barrio,Sincelejo,5,11,Crédito 30 días,2000000,2020-09-23
+562,877779952-0,Minimercado Villa Rosa,Minimercado,San Marcos,5,11,Contado,0,2016-04-23
+563,825164496-0,Supermercado El Vecino,Supermercado,San Marcos,5,12,Crédito 60 días,57500000,2019-11-10
+564,854015166-2,Tienda El Porvenir,Tienda de barrio,sincelejo ,5,12,Contado,0,2018-07-23
+565,898936575-6,Tienda El Vecino,Tienda de barrio,Sincelejo,5,12,Contado,0,2020-08-16
+566,877711175-7,Minimercado La Gran Vía,Minimercado,Sampués,5,11,Contado,0,2024-09-14
+567,854492023-7,Minimercado Doña Ana,Minimercado,Sincelejo,5,11,Contado,0,2023-11-01
+568,848325119-8,Tienda La 30,Tienda de barrio,Sincelejo,5,11,Contado,0,2020-09-23
+569,856242225-9,Minimercado El Vecino,Minimercado,Santiago de Tolú,5,11,Crédito 60 días,14300000,2022-08-19
+570,830057806-7,Tienda Mi Barrio,Tienda de barrio,Corozal,5,12,Crédito 30 días,5700000,2017-12-01
+571,860677549-1,Tienda La Popular,Tienda de barrio,San Marcos,5,12,Contado,0,2019-10-02
+572,833219892-7,Tienda La Victoria Express,Tienda de barrio,Sincelejo,5,12,Contado,0,2016-03-04
+573,834285447-3,Supermercado El Vecino,Supermercado,Sampués,5,12,Crédito 30 días,32600000,2022-01-10
+574,855262315-4,Minimercado El Paraíso,Minimercado,Sincelejo,5,11,Contado,0,2024-05-03
+575,875634356-9,Droguería Mi Barrio,Droguería,Sincelejo,5,11,Contado,0,2020-07-11
+576,814710983-9,Tienda El Vecino Norte,Tienda de barrio,Sincelejo,5,11,Contado,0,2015-05-02
+577,866808517-1,Minimercado El Ahorro,Minimercado,Sampués,5,12,Contado,0,2022-11-16
+578,855554566-2,Minimercado San José,Minimercado,Sincelejo,5,11,Contado,0,2015-08-17
+579,834319265-7,Supermercado Mi Barrio,Supermercado,Sincelejo,5,11,Crédito 30 días,37700000,2021-05-21
+580,839385951-8,Tienda El Progreso Express,Tienda de barrio,Sincelejo,5,11,Crédito 30 días,6000000,2022-11-10
+581,862217467-7,Tienda Las Palmas,Tienda de barrio,Sincelejo,5,11,Contado,0,2017-11-12
+582,825516197-8,Supermercado La Ceiba,Supermercado,Sincelejo,5,12,Crédito 30 días,41900000,2025-10-16
+583,847072480-9,Supermercado El Vecino Express,Supermercado,Sampués,5,12,Crédito 30 días,81600000,2016-10-01
+584,813185952-9,Tienda El Ahorro,Tienda de barrio,Sampués,5,11,Crédito 30 días,4900000,2018-05-24
+585,814476087-0,Tienda El Sol,Tienda de barrio,Sincelejo,5,12,Contado,0,2019-06-16
+586,846047521-4,Tienda Los Almendros,Tienda de barrio,Santiago de Tolú,5,12,Contado,0,2022-01-12
+587,828737654-1,Tienda El Porvenir,Tienda de barrio,Corozal,5,12,Crédito 30 días,2600000,2026-05-17
+588,825157962-0,Tienda El Porvenir No. 2,Tienda de barrio,Sincelejo,5,11,Contado,0,2018-06-10
+589,870147620-5,Tienda El Porvenir Sur,Tienda de barrio,sincelejo ,5,11,Contado,0,2026-03-29
+590,817825557-8,Supermercado La Economía,Supermercado,Corozal,5,12,Crédito 60 días,70100000,2021-10-11
+591,849394800-3,Minimercado Doña Ana Central,Minimercado,Sincelejo,5,12,Crédito 30 días,10200000,2024-10-20
+592,860939957-9,Tienda La Ceiba,Tienda de barrio,sincelejo ,5,11,Contado,0,2024-07-26
+593,856275806-4,Tienda El Triunfo del Centro,Tienda de barrio,Sincelejo,5,11,Contado,0,2025-10-02
+594,886836538-5,Tienda La Gran Vía,Tienda de barrio,Sincelejo,5,11,Contado,0,2025-12-27
+595,859361080-6,Minimercado El Porvenir,Minimercado,Sincelejo,5,11,Contado,0,2025-09-20
+596,853302020-8,Tienda El Ahorro,Tienda de barrio,Corozal,5,11,Crédito 30 días,5400000,2015-04-01
+597,837897550-6,Supermercado San José,Supermercado,San Marcos,5,12,Crédito 60 días,42300000,2015-07-14
+598,811699592-5,Tienda La Esquina,Tienda de barrio,Sampués,5,12,Contado,0,2020-04-21
+599,813779929-7,Tienda El Paraíso,Tienda de barrio,Sampués,5,11,Contado,0,2025-11-25
+600,864522727-9,Tienda San José,Tienda de barrio,Corozal,5,12,Contado,0,2021-10-10
+601,843434761-5,SUPERMERCADO EL AHORRO,Supermercado,Santiago de Tolú,5,11,Crédito 60 días,38700000,2018-07-08
+602,877082740-4,Tienda Mi Barrio  ,Tienda de barrio,Turbaco,2,5,Crédito 30 días,5800000,2019-06-24
+603,821790248-8,MINIMERCADO DOÑA ANA,Minimercado,Montería,4,9,Crédito 30 días,6600000,2018-12-11
+604,839615750-1,Tienda Mi Barrio Norte  ,Tienda de barrio,Malambo,1,2,Contado,0,2025-09-18
+605,811644403-4,MINIMERCADO LA GRAN VÍA,Minimercado,Ciénaga,3,8,Crédito 30 días,14500000,2026-08-12
+606,819416018-3,Supermercado La Victoria  ,Supermercado,Cartagena de Indias,2,5,Crédito 60 días,66200000,2025-06-15
+607,806113780-9,TIENDA DON PEPE,Tienda de barrio,Sta Marta,3,8,Contado,0,2021-12-20
+608,864291059-5,Minimercado La Floresta  ,Minimercado,Zona Bananera,3,7,Contado,0,2026-03-03
